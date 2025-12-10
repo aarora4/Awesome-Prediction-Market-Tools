@@ -1,4 +1,5 @@
-# Awesome Prediction Market Tools  
+# Awesome Prediction Market Tools
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > The most complete, community-maintained directory of prediction market tools — analytics platforms, trading bots, dashboards, APIs, data feeds, alert systems, educational resources, and more.  
@@ -8,8 +9,9 @@ Pull requests welcome — add your tool or improve the list!
 
 ---
 
-## ⭐ Featured: Oddpool  
-**[Oddpool](https://www.oddpool.com)** — *The Bloomberg for prediction markets.*
+## ⭐ Featured: Oddpool
+
+**[Oddpool](https://www.oddpool.com)** — _The Bloomberg for prediction markets._
 
 Oddpool aggregates live cross-venue odds, spreads, arbitrage opportunities, historical price data, market depth, economic indicators, and analytics across Polymarket, Kalshi, CME, and more.  
 Perfect for traders, researchers, and quants who want a unified prediction-market data layer.
@@ -20,6 +22,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 ---
 
 ## Contents
+
 - [🧠 AI Agents](#ai-agents)
 - [🧩 APIs](#apis)
 - [🔹 Aggregator](#aggregator)
@@ -42,6 +45,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 
 ## 🧠 AI Agents
 
+- [Alphascope](https://www.alphascope.app/?utm_source=polymark.et) — AI-driven market intelligence engine for prediction markets, delivering real-time signals, research, and probability shifts.
 - [Polyfactual](https://www.polyfactual.com/?utm_source=polymark.et) — AI-powered platform blending prediction markets and social narratives to track and trade on event truthfulness.
 - [Polytrader](https://www.polytrader.ai/?utm_source=polymark.et) — AI-Powered Prediction Market Trading – Polytrader enhances Polymarket trading by integrating - AI-driven analysis, automated trading strategies, and social sentiment tracking.
 - [Sportstensor](https://www.sportstensor.com/?utm_source=polymark.et) — Decentralized AI-powered sports prediction platform leveraging collective intelligence and ensemble modeling to uncover persistent market patterns.
@@ -71,12 +75,14 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Agok](https://agok.ai/?utm_source=polymark.et) — No-code AI agent platform enabling users to build, deploy, and share intelligent agents with natural language commands, featuring Polymarket integration, blockchain tools, and enterprise-ready compliance features.
 - [PolyOracle](https://app.polyoracle.com/?utm_source=polymark.et) — An AI-powered system that uses multiple LLMs (large language models) to analyze Polymarket’s most active markets. Instead of one brain making decisions, it’s a collective of AIs reaching consensus.
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
+
 ## 🧩 APIs
 
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
+
 ## 🔹 Aggregator
 
 - [Verso](https://www.verso.trading/?utm_source=polymark.et) — Professional-grade prediction market terminal that provides real-time market data, analytics, and news intelligence for Polymarket and Kalshi traders in a Bloomberg-style institutional interface.
@@ -85,6 +91,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [trade.fun](https://trade.fun/?utm_source=polymark.et) — Comprehensive multi-asset trading platform integrating Polymarket prediction markets, Solana memecoins, perpetuals with up to 40x leverage, and yield farming in one customizable interface, featuring zero gas fees, and MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=polymark.et) — Professional prediction market aggregator and prime brokerage platform backed by Alliance DAO and CMT Digital, featuring advanced order execution, self-custodial trading, and institutional-grade tools across multiple prediction markets.
 - [OkayBet](https://www.okaybet.app/?utm_source=polymark.et) — Prediction market infrastructure platform that builds applications on top of prediction markets, featuring AI trading agents, market aggregation, and parlay betting across multiple platforms.
+
 ## 🔔 Alerts
 
 - [Nevua Markets](https://nevua.markets/?utm_source=polymark.et) — Live Polymarket watchlists with real-time alerts—get instant updates on Telegram, Discord, webhooks, or your browser.
@@ -99,6 +106,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](#) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+
 ## 📊 Analytics Tools
 
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
@@ -133,6 +141,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Wandly](https://wandly.xyz/?utm_source=polymark.et) — Advanced prediction market analytics platform providing real-time data, filtering tools, and calendar-based event tracking for Polymarket and Kalshi markets across politics, sports, crypto, and entertainment.
 - [future fun](https://www.future.fun/?utm_source=polymark.et) — AION-powered prediction market terminal featuring the Scouter analytics tool with proprietary Edge Score rankings for Polymarket traders.
 - [Markium](https://markiumpro.com/?utm_source=polymark.et) — Comprehensive data analytics and trading platform for prediction markets that provides market aggregation, wallet analytics, leaderboards, and watchlist alerts across Polymarket and other prediction market platforms.
+
 ## 🔹 Arbitrage tools
 
 - [ArbBets](https://getarbitragebets.com/?utm_source=polymark.et) — AI-driven platform identifying arbitrage and positive expected value (EV) opportunities across Polymarket, Kalshi, and sportsbooks.
@@ -141,6 +150,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+
 ## 📈 Dashboards
 
 - [Token Terminal](https://tokenterminal.com?utm_source=polymark.et) — Full-stack onchain data platform standardizing financial metrics for blockchains and dApps using traditional finance KPIs and frameworks.
@@ -151,6 +161,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Zapper](https://zapper.xyz/apps/polymarket?utm_source=polymark.et) — Comprehensive Web3 asset management platform featuring integrated Polymarket position tracking, multi-chain portfolio monitoring, and DeFi protocol exploration across 50+ blockchains.
 - [LayerHub](https://layerhub.xyz/protocols/polymarket?utm_source=polymark.et) — Comprehensive on-chain analytics platform specializing in wallet activity analysis for crypto projects, featuring dedicated Polymarket analytics with real-time tracking and individual wallet performance insights.
 - [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket?utm_source=polymark.et) — Comprehensive Dune Analytics dashboard tracking automated trading bot activity and market share across major Polymarket trading platforms.
+
 ## 📡 Data
 
 - [sealaunch](https://dune.com/sealaunch/polymarket-trending-topics?utm_source=polymark.et) — Dune dashboard visualizing the world’s real-time headlines onchain—track top Polymarket markets, sentiment shifts, and conviction by 24h volume.
@@ -161,6 +172,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [alexmccullough](https://dune.com/alexmccullough/how-accurate-is-polymarket#a-few-things-immediately-stand-out?utm_source=polymark.et) — Dune dashboard analyzing Polymarket’s prediction accuracy, bias, and outcome distributions across different timeframes and price buckets.
 - [TREMOR](https://www.tremor.live/?utm_source=polymark.et) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
+
 ## 💸 DeFi
 
 - [Ostium](https://app.ostium.com/strategies?utm_source=polymark.et) — The first app for automating trading strategies on Polymarket data.
@@ -169,21 +181,26 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
+
 ## 📚 Educational Resources
 
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+
 ## 🔹 Extensions
 
 - [PMs4X](https://chromewebstore.google.com/detail/prediction-markets-for-x/cpimmfoflnoomfabkemagplkjeaemndp?utm_source=item-share-x&utm_source=polymark.et) — Privacy-focused Chrome browser extension enabling seamless access to Polymarket directly from Twitter/X timelines, featuring instant prediction market discovery for tweets, real-time match detection with percentage accuracy, volume tracking, and zero data collection while requiring no signup or wallet connection.​
+
 ## 🔹 Funds
 
 - [PolyFund](https://www.polyfund.so/?utm_source=polymark.et) — Decentralized platform that enables skilled predictors to manage funds and investors to benefit from their expertise on Polymarket prediction markets.
+
 ## 🏗️ Infrastructure
 
 - [SEDA](https://docs.seda.xyz/home/for-developers/build-an-oracle-program?utm_source=polymark.et) — SEDA brings Polymarket’s entire market data layer onchain. Developers can use Oracle Programs to transform prediction markets into composable DeFi primitives—powering perpetuals, lending, arbitrage tools, and custom derivatives across chains.
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
+
 ## 📰 News
 
 - [PROPHET](https://www.prophetnotes.com/?utm_source=polymark.et) — Expert-backed prediction newsletter delivering data-driven insights on politics, finance, and geopolitics.
@@ -193,9 +210,11 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Boring News](https://www.notboring.co/?utm_source=polymark.et) — AI-powered daily news show that uses Polymarket prediction market odds as the foundation for unbiased, data-driven news delivery across YouTube, X, and podcast platforms.
 - [Polynews](https://polynews.in?utm_source=polymark.et) — Real-time news platform that transforms Polymarket prediction market odds into live headlines without editorial bias, featuring market-driven probability journalism, dark mode interface, and upcoming global visualization map to provide "Bloomberg terminal for everything" powered by trader sentiment rather than traditional media.
 - [Key.pro](https://key.pro/?utm_source=polymark.et) — AI-powered universal trading platform by HashKey featuring real-time news integration, automated trading agents, and comprehensive market access across crypto, stocks, prediction markets including Polymarket, and memecoins with institutional-grade security.
+
 ## 🏛️ Official
 
 - [Polymarket Live Ticker](https://ticker.polymarket.com?utm_source=polymark.et) — Official Polymarket widget service that provides real-time prediction market data tickers for livestreams, websites, and mobile apps with seamless OBS integration.
+
 ## 🟪 Others
 
 - [Kaito](https://yaps.kaito.ai/infomarkets?utm_source=polymark.et) — Web3 information platform tracking mindshare across multiple prediction market platforms with real-time analytics and creator leaderboards.
@@ -211,17 +230,20 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Fake-A-Polymarket](https://fake-a-polymarket.com?utm_source=polymark.et) — Popular generator tool for creating realistic fake Polymarket prediction market charts with customizable odds, volatility, volume data, and chart patterns for marketing, entertainment, and educational purposes.
 - [Liquid](https://protocol.useliquid.xyz?utm_source=polymark.et) — Insurance protocol for prediction markets that enables traders to set customizable loss caps and receive cash-back protection through one-tap activation on any bet.
 - [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.
+
 ## 🔹 Parlays
 
 - [Clutch](http://ape.clutch.market?utm_source=polymark.et) — World’s first fully on-chain decentralized parlay platform—combine Polymarket, sports, and political predictions for higher payouts on Arbitrum and ApeChain.
 - [PredictShark](https://www.predictshark.io/?utm_source=polymark.et) — On-chain prediction market parlay platform that allows users to combine multiple Polymarket events into single high-reward bets with exponential payouts, built trustlessly on Polygon using native USDC.
 - [BetStack](https://alpha.betstack.app?utm_source=polymark.et) — Sports betting application powered by Polymarket that enables users to combine multiple prediction market bets into sequential parlays with superior odds and live cashout functionality.
+
 ## 🔹 Portfolio Tracking
 
 - [Polymarket Bros](http://brosonpm.trade?utm_source=polymark.et) — Community-focused whale tracking and copy trading platform monitoring Polymarket trades over $4,000 in real-time, featuring one-click trade replication, trader identification, win rate displays, verified whale badges, and 30-second auto-refresh functionality accessible free forever.
 - [PolyTracker](https://t.me/polytracker0_bot?utm_source=polymark.et) — Telegram bot for monitoring specified Polymarket wallet activities, providing real-time notifications on new transactions with market details and direct links, including commands for tracking, listing, and profile viewing, developed by @nlabplay with ongoing stability improvements.
 - [Polylerts](https://t.me/Polylerts_bot?utm_source=polymark.et) — Free Telegram bot that enables tracking up to 15 Polymarket wallets with real-time trade alerts, comprehensive analytical reports, and advanced watchlist management features to monitor and learn from top prediction market traders.
 - [Polycool](https://polycool.live/?utm_source=polymark.et) — Real-time Polymarket smart trader tracking platform that identifies and alerts users to big trades from the top 0.5% of wallets, providing "Bloomberg for prediction markets" via 24/7 Telegram notifications and copy trading opportunities to follow insider moves before odds shift.
+
 ## 🤖 Trading Bots
 
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
