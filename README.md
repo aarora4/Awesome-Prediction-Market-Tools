@@ -82,6 +82,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
+- [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 
 ## 🔹 Aggregator
 
