@@ -75,6 +75,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Agok](https://agok.ai/?utm_source=polymark.et) — No-code AI agent platform enabling users to build, deploy, and share intelligent agents with natural language commands, featuring Polymarket integration, blockchain tools, and enterprise-ready compliance features.
 - [PolyOracle](https://app.polyoracle.com/?utm_source=polymark.et) — An AI-powered system that uses multiple LLMs (large language models) to analyze Polymarket’s most active markets. Instead of one brain making decisions, it’s a collective of AIs reaching consensus.
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
+- [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 
 ## 🧩 APIs
 
