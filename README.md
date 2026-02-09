@@ -143,6 +143,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Wandly](https://wandly.xyz/?utm_source=polymark.et) — Advanced prediction market analytics platform providing real-time data, filtering tools, and calendar-based event tracking for Polymarket and Kalshi markets across politics, sports, crypto, and entertainment.
 - [future fun](https://www.future.fun/?utm_source=polymark.et) — AION-powered prediction market terminal featuring the Scouter analytics tool with proprietary Edge Score rankings for Polymarket traders.
 - [Markium](https://markiumpro.com/?utm_source=polymark.et) — Comprehensive data analytics and trading platform for prediction markets that provides market aggregation, wallet analytics, leaderboards, and watchlist alerts across Polymarket and other prediction market platforms.
+- [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 
 ## 🔹 Arbitrage tools
 
