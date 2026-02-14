@@ -108,6 +108,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](#) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [Wraith Alerts](https://t.me/WraithAlertsbot) — Telegram bot tracking 27 verified Polymarket whales (from 4,113 analyzed). Uses survivorship bias correction to filter fake win rates. Real-time alerts, category-specific whale scoring, and daily digests. [Landing page](https://wraith.pixio.cloud)
 
 ## 📊 Analytics Tools
 
