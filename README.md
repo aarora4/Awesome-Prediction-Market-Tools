@@ -76,6 +76,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 - [PolyOracle](https://app.polyoracle.com/?utm_source=polymark.et) — An AI-powered system that uses multiple LLMs (large language models) to analyze Polymarket’s most active markets. Instead of one brain making decisions, it’s a collective of AIs reaching consensus.
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
+- [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
 
 ## 🧩 APIs
 
@@ -203,6 +204,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 
 - [SEDA](https://docs.seda.xyz/home/for-developers/build-an-oracle-program?utm_source=polymark.et) — SEDA brings Polymarket’s entire market data layer onchain. Developers can use Oracle Programs to transform prediction markets into composable DeFi primitives—powering perpetuals, lending, arbitrage tools, and custom derivatives across chains.
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
+- [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 
 ## 📰 News
 
