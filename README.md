@@ -168,6 +168,7 @@ Perfect for traders, researchers, and quants who want a unified prediction-marke
 
 ## 📡 Data
 
+- [Kingsets](https://kingsets.com) - Historical Kalshi and Polymarket datasets available as downloadable CSV files and queryable on Google BigQuery. No API wrangling.
 - [sealaunch](https://dune.com/sealaunch/polymarket-trending-topics?utm_source=polymark.et) — Dune dashboard visualizing the world’s real-time headlines onchain—track top Polymarket markets, sentiment shifts, and conviction by 24h volume.
 - [filarm](https://dune.com/filarm/polymarket-activity?utm_source=polymark.et) — Comprehensive Dune analytics dashboard tracking Polymarket metrics, user activity, volume trends, and market insights by data analyst Filippo Armani.
 - [Artemis](https://app.artemisanalytics.com/sectors?tab=prediction_markets&utm_source=polymark.et) — Institutional-grade analytics on Polymarket and Kalshi, tracking spot volume, open interest, active users, and transaction flows in real time.
