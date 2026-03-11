@@ -153,6 +153,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [Polymarket Scanner](https://github.com/vesper-astrena/polymarket-scanner) — Open-source Python tool that scans 10,000+ Polymarket prediction markets for mispricings, detecting exclusive outcome deviations, ladder contradictions, and cross-market logical inconsistencies using the public Gamma API with no authentication required.
 
 ## 📈 Dashboards
 
