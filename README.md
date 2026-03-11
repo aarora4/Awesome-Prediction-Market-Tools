@@ -84,6 +84,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
+- [Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api) — REST API for real-time arbitrage and mispricing detection across 10,000+ Polymarket prediction markets, scanning for exclusive outcome deviations, ladder contradictions, and cross-market conflicts with filtering by profit percentage and liquidity.
 
 ## 🔹 Aggregator
 
@@ -154,6 +155,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
 - [Polymarket Scanner](https://github.com/vesper-astrena/polymarket-scanner) — Open-source Python tool that scans 10,000+ Polymarket prediction markets for mispricings, detecting exclusive outcome deviations, ladder contradictions, and cross-market logical inconsistencies using the public Gamma API with no authentication required.
+- [Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api) — Hosted REST API for real-time arbitrage detection across 10,000+ Polymarket markets, with free tier (3 requests/day) and Pro plan for unlimited access, filtering by profit % and liquidity.
 
 ## 📈 Dashboards
 
