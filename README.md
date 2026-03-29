@@ -58,7 +58,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polyprophet](https://polyprophet.com?utm_source=polymark.et) — Chrome extension providing AI-powered real-time predictions for Polymarket using multiple leading AI models and proprietary historical data analysis.
 - [Polybro](https://www.polybro.app?utm_source=polymark.et) — Autonomous AI-powered Polymarket trading agent that conducts structured research across academic papers, news, and live data to generate evidence-based predictions and trading signals.
 - [Polymarket Tips](https://polymarket.tips?utm_source=polymark.et) — AI-powered sentiment analysis platform providing real-time social media intelligence and trading recommendations for Polymarket prediction markets.
-- [SimpleFunctions](https://simplefunctions.dev) — Thesis engine for prediction market agents. Decomposes macro theses into causal trees, scans Kalshi + Polymarket for mispriced contracts (edges), and monitors 24/7 with autonomous news scanning, price tracking, and LLM evaluation. MCP server, REST API, CLI, and Telegram bot.
+- [SimpleFunctions](https://simplefunctions.dev) — Agentic runtime for prediction markets. Decomposes macro theses into causal trees, scans Kalshi + Polymarket for mispriced contracts, and monitors 24/7 with autonomous evaluation. MCP server (25 tools), REST API, CLI (42 commands), and Telegram bot.
 - [Inside Edge](https://inside.fyi/?utm_source=polymark.et) — AI-powered prediction market analysis platform that identifies market inefficiencies on Polymarket to help users find profitable trading opportunities with quantified edge percentages.
 - [Jatevo](https://jatevo.ai/agents/prediction-market?utm_source=polymark.et) — Deep research platform powered by 6-agent AI pipeline for prediction market analysis with Polymarket API integration.
 - [PolyMaster](https://polymaster.io?utm_source=polymark.et) — AI-powered Polymarket analysis platform with whale tracking, predictive modeling, and real-time market intelligence.
@@ -86,7 +86,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
-- [SimpleFunctions API](https://simplefunctions.dev/docs) — REST API and MCP server for thesis-driven prediction market intelligence. Create causal thesis models, scan Kalshi + Polymarket for edges, trigger evaluations, and run what-if scenarios. Connect to Claude Code or Cursor with one command.
 
 ## 🔹 Aggregator
 
@@ -169,7 +168,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Zapper](https://zapper.xyz/apps/polymarket?utm_source=polymark.et) — Comprehensive Web3 asset management platform featuring integrated Polymarket position tracking, multi-chain portfolio monitoring, and DeFi protocol exploration across 50+ blockchains.
 - [LayerHub](https://layerhub.xyz/protocols/polymarket?utm_source=polymark.et) — Comprehensive on-chain analytics platform specializing in wallet activity analysis for crypto projects, featuring dedicated Polymarket analytics with real-time tracking and individual wallet performance insights.
 - [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket?utm_source=polymark.et) — Comprehensive Dune Analytics dashboard tracking automated trading bot activity and market share across major Polymarket trading platforms.
-- [SimpleFunctions Dashboard](https://github.com/spfunctions/simplefunctions-cli) — Bloomberg-style terminal dashboard for Kalshi + Polymarket. Positions, edges, P&L sparklines, orderbook depth, what-if scenarios, and liquidity scanning across 18 macro topics. Keyboard-driven TUI.
 
 ## 📡 Data
 
@@ -265,7 +263,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Fireplace](https://fireplace.gg/?utm_source=polymark.et) — Social news app powered by prediction markets. Scroll, bet, and compete with friends on real-time news markets, all built on Polymarket.
 - [Based](https://app.based.one/predict?utm_source=polymark.et) — Unified Hyperliquid trading platform integrating Polymarket prediction markets with $8+ billion lifetime trading volume, 10,000+ users, and omni-platform access enabling perpetual/spot crypto trading, on-chain stock trading, and prediction market betting with deep Hyperliquid hypercore integration for seamless fund transfers between perpetual and prediction accounts, plus 2 million Based Gold rewards per epoch for prediction market participants.​
 - [Berry](https://berryinvesting.com/?utm_source=polymark.et) — Mobile-first investing app enabling access to US stocks, ETFs, and prediction markets—no bank account required, Polymarket-powered.
-- [SimpleFunctions CLI](https://github.com/spfunctions/simplefunctions-cli) — Open-source CLI agent with 25+ tools for Kalshi + Polymarket trading. Natural language interface, orderbook inspection (`sf book`), liquidity scanning across 18 topics, edge detection, and strategy management. Includes Telegram bot with auto-push alerts.
 - [Rainmaker](https://rainmaker.fun/?utm_source=polymark.et) — AI agent-powered terminal unifying arbitrage, copy-trading, and analytics for Polymarket and Kalshi—featuring the Cloud9 Agentic Terminal.
 - [PolyBot](https://polybot.trading/?utm_source=polymark.et) — Fast, self-custodial Telegram trading bot for Polymarket featuring Gnosis Safe integration, gas-sponsored transactions, and seamless paste-to-trade functionality directly within chat.
 - [Polyburg](https://polyburg.com/?utm_source=polymark.et) — Real-time intelligence terminal for tracking Polymarket's most profitable traders through smart wallet monitoring, AI-powered insights, and instant Telegram alerts.
