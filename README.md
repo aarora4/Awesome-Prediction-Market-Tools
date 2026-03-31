@@ -76,6 +76,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
+- [TigerPass](https://github.com/TigerPassNet/tigerpass-skill?utm_source=polymark.et) — Hardware-secured crypto wallet and trading terminal for AI agents with built-in Polymarket arbitrage, Hyperliquid perps, DEX swaps across 6 EVM chains, and Apple Secure Enclave key storage that makes private key extraction physically impossible.
 
 ## 🧩 APIs
 
