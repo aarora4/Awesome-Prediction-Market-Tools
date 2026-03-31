@@ -112,6 +112,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 📊 Analytics Tools
 
+- [PredScope](https://predscope.com) — Free prediction market analytics tracking 600+ Polymarket events with live odds, volume stats, 78 guides, odds calculator, free JSON API, and auto-updated market insights every 10 minutes.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
