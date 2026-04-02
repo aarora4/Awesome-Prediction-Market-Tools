@@ -76,6 +76,10 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
+- [FlipCoin MCP](https://github.com/flipcoin-fun/flipcoin-mcp) — MCP server for Claude agents to browse, trade, and create prediction markets on Base with verifiable on-chain track records.
+- [FlipCoin ElizaOS Plugin](https://github.com/flipcoin-fun/eliza-plugin-flipcoin) — ElizaOS plugin for autonomous prediction market trading on Base; supports LMSR and CLOB execution with delegated session keys.
+- [FlipCoin LangChain](https://github.com/flipcoin-fun/flipcoin-langchain) — LangChain tools wrapping the FlipCoin Agent API for Python-based prediction market agents. PyPI: flipcoin-langchain.
+- [FlipCoin OpenClaw](https://github.com/flipcoin-fun/flipcoin-openclaw-skill) — OpenClaw skill for Telegram/WhatsApp prediction market trading on Base (alongside PolyClaw’s Polymarket integration).
 
 ## 🧩 APIs
 
