@@ -187,6 +187,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
+- [Settled](https://www.settled.pro) — Prediction market platform for crypto perpetual futures funding rates on Solana. Binary YES/NO markets on whether the next funding rate will be positive, covering 2,400+ pairs across Binance, Bybit, Hyperliquid, KuCoin, and Gate. Markets auto-resolve every 1–8 hours from live exchange data with LMSR AMM pricing and Token-2022 conditional tokens.
 
 ## 📚 Educational Resources
 
