@@ -112,6 +112,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 📊 Analytics Tools
 
+- [EdgeMarket](https://edgemarket.co/?utm_source=polymark.et) — Real-time Polymarket whale tracker with 2-second alerts, smart money leaderboard, wallet follow system, and AI Oracle Signals providing 79.5% accurate BTC/ETH/SOL/XRP 5-min direction predictions.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
