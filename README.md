@@ -194,6 +194,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
 
+
+- **[LearnAI — Polymarket AI Tutor](https://www.uselearnai.com/chat?topic=Polymarket)** — Conversational AI course on Polymarket: how prediction markets work, trading mechanics, probability calibration, and strategy. Interactive and personalized.
 ## 🔹 Extensions
 
 - [PMs4X](https://chromewebstore.google.com/detail/prediction-markets-for-x/cpimmfoflnoomfabkemagplkjeaemndp?utm_source=item-share-x&utm_source=polymark.et) — Privacy-focused Chrome browser extension enabling seamless access to Polymarket directly from Twitter/X timelines, featuring instant prediction market discovery for tweets, real-time match detection with percentage accuracy, volume tracking, and zero data collection while requiring no signup or wallet connection.​
