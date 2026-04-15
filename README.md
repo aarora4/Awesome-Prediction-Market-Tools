@@ -44,6 +44,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🧠 AI Agents
 
+[Ember](https://emberfyi.com) — Multi-model AI prediction system tracking where Claude, Grok, and Gemini diverge from Polymarket crowds before resolution. Every call timestamped and locked before the outcome. Brier scores track accuracy publicly over 365 days. Nothing edited. Nothing deleted.
 - [Alphascope](https://www.alphascope.app/?utm_source=polymark.et) — AI-driven market intelligence engine for prediction markets, delivering real-time signals, research, and probability shifts.
 - [Polyfactual](https://www.polyfactual.com/?utm_source=polymark.et) — AI-powered platform blending prediction markets and social narratives to track and trade on event truthfulness.
 - [Polytrader](https://www.polytrader.ai/?utm_source=polymark.et) — AI-Powered Prediction Market Trading – Polytrader enhances Polymarket trading by integrating - AI-driven analysis, automated trading strategies, and social sentiment tracking.
