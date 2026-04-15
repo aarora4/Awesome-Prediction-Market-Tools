@@ -76,12 +76,14 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
+- [Multiply MCP Server](https://github.com/dimes-fi/multiply-mcp?utm_source=polymark.et) — Open-source MCP server giving Claude and AI agents access to prediction market leverage — search markets, check leverage availability, and manage leveraged positions on Polymarket.
 
 ## 🧩 APIs
 
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
+- [Multiply SDK](https://github.com/dimes-fi/multiply-sdk?utm_source=polymark.et) — Open-source TypeScript and Python SDKs for integrating leveraged prediction market positions into front-end applications, with sandbox mode, WebSocket updates, and full API reference.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
@@ -185,6 +187,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Aura](https://aura.money/?utm_source=polymark.et) — Trade everything: Sports, Politics, Crypto Perps, RWA Perps, & more. Powered by: Polymarket, Hyperliquid.
 - [Gondor](https://gondor.fi/?utm_source=polymark.et) — DeFi protocol for borrowing against Polymarket positions, unlocking liquidity without closing trades.
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
+- [Dimes Multiply](https://dimes.fi?utm_source=polymark.et) — Embedded leverage infrastructure for prediction market front-ends. Provides up to 10x CFD-based leverage on Polymarket positions as drop-in B2B middleware, with institutional underwriting facility and 30% partner revenue share.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
 
@@ -205,6 +208,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 🏗️ Infrastructure
 
 - [SEDA](https://docs.seda.xyz/home/for-developers/build-an-oracle-program?utm_source=polymark.et) — SEDA brings Polymarket’s entire market data layer onchain. Developers can use Oracle Programs to transform prediction markets into composable DeFi primitives—powering perpetuals, lending, arbitrage tools, and custom derivatives across chains.
+- [Dimes](https://dimes.fi?utm_source=polymark.et) — Embedded credit infrastructure for onchain front-ends. Enables trading terminals, wallets, and apps to natively offer leveraged prediction market exposure via REST API integration, handling all credit provisioning, hedging, and risk management.
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
