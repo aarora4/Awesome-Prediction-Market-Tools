@@ -204,6 +204,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🏗️ Infrastructure
 
+- [Kuest](https://kuest.com) — Open-source protocol/infrastructure for launching and operating your own prediction market deployment at Polygon.
 - [SEDA](https://docs.seda.xyz/home/for-developers/build-an-oracle-program?utm_source=polymark.et) — SEDA brings Polymarket’s entire market data layer onchain. Developers can use Oracle Programs to transform prediction markets into composable DeFi primitives—powering perpetuals, lending, arbitrage tools, and custom derivatives across chains.
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
