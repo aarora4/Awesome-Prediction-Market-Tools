@@ -178,6 +178,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [alexmccullough](https://dune.com/alexmccullough/how-accurate-is-polymarket#a-few-things-immediately-stand-out?utm_source=polymark.et) — Dune dashboard analyzing Polymarket’s prediction accuracy, bias, and outcome distributions across different timeframes and price buckets.
 - [TREMOR](https://www.tremor.live/?utm_source=polymark.et) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
+- [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
 
 ## 💸 DeFi
 
