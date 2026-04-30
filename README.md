@@ -89,6 +89,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Helium](https://heliumtrades.com/mcp-page/) — AI-powered market intelligence API with real-time news bias scoring across 5,000+ sources, probability-weighted stock/ETF/crypto forecasts, ML options pricing, and balanced multi-perspective news synthesis. Available as MCP server or REST API with free tier.
 
 ## 🔹 Aggregator
 
