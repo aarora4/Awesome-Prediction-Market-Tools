@@ -118,7 +118,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
-- [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
+- [PolyIntelHub](https://polyintelhub.com) — Real-time whale trade intelligence platform with insider scoring, fresh wallet detection, automated trading bots (8 strategies), probability arbitrage scanner, and multi-channel alerts (Discord, Telegram, Email, Webhook).- [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
 - [Betmoar](https://www.betmoar.fun/?utm_source=polymark.et) — Web-based Polymarket trading terminal offering powerful search, real-time news, and unique market insights.
 - [Parsec](https://parsec.fi/polymarket?utm_source=polymark.et) — Parsec provides real-time data analytics and insights for Polymarkets, helping users make informed decisions.
 - [MobyScreener](https://www.mobyscreener.com/predictions-feed?utm_source=polymark.et) — Live feed tracking top Polymarket traders’ buys and sells in real time for actionable prediction market insights.
@@ -262,7 +262,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 🤖 Trading Bots
 
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
-- [Flipr](https://flipr.bot/?utm_source=polymark.et) — The defi layer for prediction markets. leverage, lending, and trading directly on x
+- [PolyIntelHub Bots](https://polyintelhub.com) — 8 automated paper/live trading strategies for Polymarket including bond carry, BTC binary pricing, probability forest arbitrage, sports arb, and whale copy trading with real-time P&L tracking.- [Flipr](https://flipr.bot/?utm_source=polymark.et) — The defi layer for prediction markets. leverage, lending, and trading directly on x
 - [Polymtrade](https://polym.trade/?utm_source=polymark.et) — The first mobile trading terminal for Polymarket with AI-powered insights.
 - [okbet](https://tryokbet.com/?utm_source=polymark.et) — Telegram-based terminal for trading on Polymarket & Kalshi—trade, bet, and copy top performers with your friends, all from chat.
 - [Predictify](https://t.me/Predictify_bot?utm_source=polymark.et) — Telegram-based, fully on-chain aggregator for Polymarket and Solana prediction markets—trade, copy, and analyze on mobile.
