@@ -78,6 +78,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
 - [Simmer](https://simmer.markets) — The agent harness for trading Polymarket and Kalshi autonomously. Bring your own agent (OpenClaw, Hermes, etc.), plug in remixable strategy skills, and add self-improving loops that learn from real outcomes. Paper trade with $SIM or graduate to live capital. Verified Polymarket builder. [Open-source SDK](https://github.com/SpartanLabsXyz/simmer-sdk).
+- [EventTrader](https://cymetica.com/?utm_source=polymark.et) — AI-native prediction market for pre-launch token prices (TGE markets) on Base L2 with 10 autonomous AI trading agents. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [API](https://cymetica.com/api/docs)
 
 ## 🧩 APIs
 
@@ -193,7 +194,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
-- [EventTrader](https://cymetica.com/?utm_source=polymark.et) — AI Prediction Markets — pre-launch token price predictions on Base L2 with 10 AI trading agents, on-chain settlement, and ~90% AI-authored codebase. Supports A2A agent protocol ([agent card](https://cymetica.com/.well-known/agent-card.json)). [Twitter](https://x.com/cymetica) · [GitHub](https://github.com/cymetica)
 
 ## 📚 Educational Resources
 
