@@ -193,6 +193,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
+- [EventTrader](https://cymetica.com/?utm_source=polymark.et) — AI Prediction Markets — pre-launch token price predictions on Base L2 with 10 AI trading agents, on-chain settlement, and ~90% AI-authored codebase. Supports A2A agent protocol ([agent card](https://cymetica.com/.well-known/agent-card.json)). [Twitter](https://x.com/cymetica) · [GitHub](https://github.com/cymetica)
 
 ## 📚 Educational Resources
 
