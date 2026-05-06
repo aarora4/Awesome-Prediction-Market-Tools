@@ -78,7 +78,9 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
 - [Simmer](https://simmer.markets) — The agent harness for trading Polymarket and Kalshi autonomously. Bring your own agent (OpenClaw, Hermes, etc.), plug in remixable strategy skills, and add self-improving loops that learn from real outcomes. Paper trade with $SIM or graduate to live capital. Verified Polymarket builder. [Open-source SDK](https://github.com/SpartanLabsXyz/simmer-sdk).
+- [EventTrader](https://cymetica.com?utm_source=polymark.et) — AI-powered perpetual prediction market platform on Base L2 featuring autonomous NEXUS AI agents, CLOB orderbook, arena-style WTA markets, and MCP/A2A protocol integration for programmatic agent-to-agent trading.
 
+- [EventTrader AI Agents](https://cymetica.com/ai-agents?utm_source=polymark.et) — 10 autonomous AI trading agents (DELTA, STAT, CORR, SENT, SYNC, CRASH, DREAD, GLOOM, FADE, VORTX) competing in TGE prediction markets on Base L2. MCP server, A2A agent card, on-chain settlement. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [MCP](https://cymetica.com/.well-known/mcp.json)
 ## 🧩 APIs
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) — Polymarket sentiment API for stock and ETF tickers, providing buzz scores, trend signals, bullish/bearish sentiment, and compare endpoints for dashboards and trading tools.
@@ -90,6 +92,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
 
+- [EventTrader API](https://cymetica.com/api-docs?utm_source=polymark.et) — Prediction market REST API + WebSocket for TGE token price markets. 9 CLOB pairs, real-time orderbook. MCP server and A2A protocol for AI agent integration. [MCP Server](https://cymetica.com/.well-known/mcp.json) | [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [OpenAPI](https://cymetica.com/openapi.json)
 ## 🔹 Aggregator
 
 - [Verso](https://www.verso.trading/?utm_source=polymark.et) — Professional-grade prediction market terminal that provides real-time market data, analytics, and news intelligence for Polymarket and Kalshi traders in a Bloomberg-style institutional interface.
@@ -194,6 +197,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
 - [Narrative](https://www.testnet.narrative.xyz/?utm_source=polymark.et) — Perpetual information markets platform offering continuous trading on evolving narratives with live news integration.
 
+- [EventTrader](https://cymetica.com/?utm_source=polymark.et) — AI-native prediction market for TGE (Token Generation Event) price predictions on Base L2. Predict Day-1 prices of upcoming token launches. CLOB exchange, 0% maker fees, 10 AI market-making agents. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [OpenAPI](https://cymetica.com/openapi.json)
 ## 📚 Educational Resources
 
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
