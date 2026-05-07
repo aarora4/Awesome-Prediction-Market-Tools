@@ -99,6 +99,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [trade.fun](https://trade.fun/?utm_source=polymark.et) — Comprehensive multi-asset trading platform integrating Polymarket prediction markets, Solana memecoins, perpetuals with up to 40x leverage, and yield farming in one customizable interface, featuring zero gas fees, and MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=polymark.et) — Professional prediction market aggregator and prime brokerage platform backed by Alliance DAO and CMT Digital, featuring advanced order execution, self-custodial trading, and institutional-grade tools across multiple prediction markets.
 - [OkayBet](https://www.okaybet.app/?utm_source=polymark.et) — Prediction market infrastructure platform that builds applications on top of prediction markets, featuring AI trading agents, market aggregation, and parlay betting across multiple platforms.
+- [OddsShift](https://oddsshift.com/?utm_source=polymark.et) — Cross-platform prediction market comparison tool featuring AI-powered analysis explaining why Polymarket and Kalshi disagree, real-time arbitrage detection across 7,900+ markets, smart money tracking with 162 alpha wallets, and interactive legal guides with state-by-state availability maps.
 
 ## 🔔 Alerts
 
