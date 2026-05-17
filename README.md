@@ -217,6 +217,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
+- [kalshi-kit](https://kalshi-kit.dev) — React component library for Kalshi prediction markets. 16 drop-in components (MarketCard, Orderbook, CandlestickChart, ProbabilityDial, TradeFeed, EventSearch, etc.) plus hooks, wired to the live API. MIT, on npm as `@kalshi-kit/react` and `@kalshi-kit/next`.
 
 ## 📰 News
 
