@@ -246,7 +246,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyFakeIt](https://www.polyfakeit.com/?utm_source=polymark.et) — Mockup generator tool for creating authentic-looking simulated prediction market screenshots with customizable odds, charts, and betting interfaces inspired by Polymarket's design, offering "zero liquidity, infinite vibes" for entertainment, educational, and creative content purposes.
 - [Fake-A-Polymarket](https://fake-a-polymarket.com?utm_source=polymark.et) — Popular generator tool for creating realistic fake Polymarket prediction market charts with customizable odds, volatility, volume data, and chart patterns for marketing, entertainment, and educational purposes.
 - [Liquid](https://protocol.useliquid.xyz?utm_source=polymark.et) — Insurance protocol for prediction markets that enables traders to set customizable loss caps and receive cash-back protection through one-tap activation on any bet.
-- [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.
+- [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.- [Ringo](https://app.joinringo.xyz) — Peer-to-peer prediction market operating primarily on X and Kick. Users make yes/no predictions with USDC on Polygon, lock funds on-chain, and trade live odds directly from tweets or stream chat. On-chain settlement via Reality.eth. No house, no exchange.
 
 ## 🔹 Parlays
 
