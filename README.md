@@ -119,6 +119,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 📊 Analytics Tools
 
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
+- [Airavat](https://airavat.xyz/?utm_source=polymark.et) — Trading analytics and automation platform that indexes on-chain Polymarket activity to score traders (PnL, win rate, Sharpe, drawdown, composite 0-100 Trader Score), match trades against custom filters in real time, and execute automated paper or on-chain auto-trades with configurable position sizing and slippage limits.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
 - [Betmoar](https://www.betmoar.fun/?utm_source=polymark.et) — Web-based Polymarket trading terminal offering powerful search, real-time news, and unique market insights.
