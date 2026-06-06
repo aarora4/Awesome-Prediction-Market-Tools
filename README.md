@@ -217,6 +217,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain trust infrastructure MCP server for AI agents operating on prediction markets. Provides `resolve_agent`, `score_agent`, `preflight_check`, and `verify_trust_receipt` (free) plus `get_trust_receipt` for signed V5 receipts (paid via x402 USDC micropayment on Solana, <1s settlement). Zero-install MCP: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 ## 📰 News
 
