@@ -92,6 +92,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
 
+- [The Stall](https://the-stall.intuitek.ai/mcp) — x402-native MCP server with Polymarket-specific pay-per-call tools for AI agents: market intelligence (active markets, probabilities, volume trends), historical resolver accuracy scoring, category-level performance analytics, and sentiment-shift momentum detection. $0.005–$0.015 USDC per call on Base mainnet, no API key required. ([MCP Server](https://the-stall.intuitek.ai/mcp))
+
 ## 🔹 Aggregator
 
 - [Verso](https://www.verso.trading/?utm_source=polymark.et) — Professional-grade prediction market terminal that provides real-time market data, analytics, and news intelligence for Polymarket and Kalshi traders in a Bloomberg-style institutional interface.
