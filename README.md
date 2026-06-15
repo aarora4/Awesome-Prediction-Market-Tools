@@ -264,6 +264,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🤖 Trading Bots
 
+- [Cabbge](https://t.me/CabbgeBot) — Non-custodial Telegram bot for Hyperliquid HIP-4 prediction markets (Fed, CPI, World Cup, BTC price targets) alongside perps and tokenized stocks in one account. Zero-fee entry, settles on-chain via validators, no KYC, non-custodial via Privy MPC, bettable from anywhere.
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
 - [Flipr](https://flipr.bot/?utm_source=polymark.et) — The defi layer for prediction markets. leverage, lending, and trading directly on x
 - [Polymtrade](https://polym.trade/?utm_source=polymark.et) — The first mobile trading terminal for Polymarket with AI-powered insights.
