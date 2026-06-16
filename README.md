@@ -185,6 +185,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [TREMOR](https://www.tremor.live/?utm_source=polymark.et) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
 - [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
+- [Codex](https://www.codex.io) — Real-time GraphQL data API for Polymarket and Kalshi (plus on-chain token data), covering per-outcome OHLC, volume, and open interest, event search, trader leaderboards, and a filterable trade feed via queries, subscriptions, and webhooks.
 
 ## 💸 DeFi
 
