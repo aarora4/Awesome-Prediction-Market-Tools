@@ -52,7 +52,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [BillyBets](https://billybets.ai/?utm_source=polymark.et) — Autonomous AI sports betting agent that operates 24/7, analyzing real-time data from SportsTensor and top bettors to provide insights and autonomously place bets on blockchain sportsbooks.
 - [Fraction AI](https://fractionai.xyz/?utm_source=polymark.et) — First decentralized auto-training platform for AI agents that compete, learn, and evolve through continuous reinforcement learning in specialized environments called Spaces.
 - [Bankr](https://bankr.bot/?utm_source=polymark.et) — The leading crypto AI agent with Polymarket integration, plus your new AI-assisted crypto wallet on X + private terminal.
-- [PredictionSwap](https://predictionswap.com?utm_source=polymark.et) — AI-powered prediction market aggregator providing real-time analysis, cross-platform odds, and actionable insights for smarter forecasting.
 - [Pigeon](https://pigeon.trade/?utm_source=polymark.et) — AI-powered multi-platform trading terminal enabling cross-market trading of crypto, stocks, perps, predictions, and memecoins through chat interfaces across 10+ platforms including Telegram, Discord, and WhatsApp.
 - [Elastics](https://www.elastics.ai/?utm_source=polymark.et) — AI-native, institutional operating system for automated, data-driven trading with integrated portfolio and risk management.
 - [Forcazt](https://forcazt.xyz/?utm_source=polymark.et) — AI-powered prediction market analytics and aggregator for discovering high-alpha markets, arbitrage, and data-driven edge.
@@ -222,7 +221,6 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Prediction News](https://predictionnews.com/?utm_source=polymark.et) — Comprehensive news, analysis, and data-driven insights covering the growing prediction market industry.
 - [Stocktwits](https://stocktwits.com?utm_source=polymark.et) — World's largest social media platform for traders and investors with 10+ million users, featuring real-time market discussions and integrated prediction market probabilities.
 - [Boring News](https://www.notboring.co/?utm_source=polymark.et) — AI-powered daily news show that uses Polymarket prediction market odds as the foundation for unbiased, data-driven news delivery across YouTube, X, and podcast platforms.
-- [Key.pro](https://key.pro/?utm_source=polymark.et) — AI-powered universal trading platform by HashKey featuring real-time news integration, automated trading agents, and comprehensive market access across crypto, stocks, prediction markets including Polymarket, and memecoins with institutional-grade security.
 
 ## 🏛️ Official
 
