@@ -252,6 +252,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🤖 Trading Bots
 
+- [Polyman](https://polyman.fun) — Telegram Mini App and web app for copy-trading top Polymarket traders, with AI-scored signals, proportional position mirroring, slippage guards, 
+  and deposits from 13 chains via the Polymarket Bridge.
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
 - [Polymtrade](https://polym.trade/?utm_source=polymark.et) — The first mobile trading terminal for Polymarket with AI-powered insights.
 - [okbet](https://tryokbet.com/?utm_source=polymark.et) — Telegram-based terminal for trading on Polymarket & Kalshi—trade, bet, and copy top performers with your friends, all from chat.
