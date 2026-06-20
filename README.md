@@ -250,6 +250,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polylerts](https://t.me/Polylerts_bot?utm_source=polymark.et) — Free Telegram bot that enables tracking up to 15 Polymarket wallets with real-time trade alerts, comprehensive analytical reports, and advanced watchlist management features to monitor and learn from top prediction market traders.
 - [Polycool](https://polycool.live/?utm_source=polymark.et) — Real-time Polymarket smart trader tracking platform that identifies and alerts users to big trades from the top 0.5% of wallets, providing "Bloomberg for prediction markets" via 24/7 Telegram notifications and copy trading opportunities to follow insider moves before odds shift.
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## 🤖 Trading Bots
 
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
