@@ -92,6 +92,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🔹 Aggregator
 
+- [Predictboard](https://predictionmarkets.exchange) - Cross-platform intelligence layer aggregating live odds from Kalshi and Polymarket side-by-side, with price divergence tracking, market movers, and educational guides for traders, researchers, journalists, and beginners.
 - [Verso](https://www.verso.trading/?utm_source=polymark.et) — Professional-grade prediction market terminal that provides real-time market data, analytics, and news intelligence for Polymarket and Kalshi traders in a Bloomberg-style institutional interface.
 - [Matchr](https://matchr.xyz?utm_source=polymark.et) — Universal prediction market aggregator that searches 1500+ markets across platforms like Polymarket and Kalshi to find the best prices and execute trades with smart routing and automated yield strategies.
 - [Firefly](https://firefly.social?utm_source=polymark.et) — Web3 everything app combining social media aggregation, prediction market betting, and onchain activity tracking across multiple platforms and networks.
@@ -191,6 +192,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 📚 Educational Resources
 
+- [Predictboard](https://predictionmarkets.exchange) - Cross-platform intelligence layer aggregating live odds from Kalshi and Polymarket side-by-side, with price divergence tracking, market movers, and educational guides for traders, researchers, journalists, and beginners.
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
