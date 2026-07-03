@@ -92,6 +92,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🔹 Aggregator
 
+- [CoinRithm](https://www.coinrithm.com/en/prediction-markets) — Free cross-venue prediction market aggregator tracking 13,000+ open markets across 7 venues (Polymarket, Kalshi, Limitless, Manifold, and more) with live odds, probability sparklines, cross-source divergence on matched questions, whale trades, resolution-provenance trust labels, and a keyless public JSON API with OpenAPI spec.
 - [Verso](https://www.verso.trading/?utm_source=polymark.et) — Professional-grade prediction market terminal that provides real-time market data, analytics, and news intelligence for Polymarket and Kalshi traders in a Bloomberg-style institutional interface.
 - [Matchr](https://matchr.xyz?utm_source=polymark.et) — Universal prediction market aggregator that searches 1500+ markets across platforms like Polymarket and Kalshi to find the best prices and execute trades with smart routing and automated yield strategies.
 - [Firefly](https://firefly.social?utm_source=polymark.et) — Web3 everything app combining social media aggregation, prediction market betting, and onchain activity tracking across multiple platforms and networks.
