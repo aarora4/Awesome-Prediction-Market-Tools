@@ -247,6 +247,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🔹 Portfolio Tracking
 
+- [Boosted Trading](https://boosted.trading/?utm_source=polymark.et) — A complete trading desk for Polymarket and crypto: in-app execution, accurate PnL journaling, pro charts and quant signals, risk and discipline tools, anti-copy wallets, and a marketplace for traders and coaches.
 - [Polymarket Bros](http://brosonpm.trade?utm_source=polymark.et) — Community-focused whale tracking and copy trading platform monitoring Polymarket trades over $4,000 in real-time, featuring one-click trade replication, trader identification, win rate displays, verified whale badges, and 30-second auto-refresh functionality accessible free forever.
 - [PolyTracker](https://t.me/polytracker0_bot?utm_source=polymark.et) — Telegram bot for monitoring specified Polymarket wallet activities, providing real-time notifications on new transactions with market details and direct links, including commands for tracking, listing, and profile viewing, developed by @nlabplay with ongoing stability improvements.
 - [Polylerts](https://t.me/Polylerts_bot?utm_source=polymark.et) — Free Telegram bot that enables tracking up to 15 Polymarket wallets with real-time trade alerts, comprehensive analytical reports, and advanced watchlist management features to monitor and learn from top prediction market traders.
