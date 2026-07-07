@@ -78,6 +78,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Simmer](https://simmer.markets) — The agent harness for trading Polymarket and Kalshi autonomously. Bring your own agent (OpenClaw, Hermes, etc.), plug in remixable strategy skills, and add self-improving loops that learn from real outcomes. Paper trade with $SIM or graduate to live capital. Verified Polymarket builder. [Open-source SDK](https://github.com/SpartanLabsXyz/simmer-sdk).
 - [TurbineFi](https://turbinefi.com) — AI-powered algorithmic trading platform for prediction market trading on Kalshi and Polymarket, enabling users to build, backtest, and deploy thousands of automated trading bots in seconds. Combines trading strategy backtesting, prediction market analytics, and financial trading automation with AI-powered trading tools that generate, optimize, and execute strategies — including arbitrage trading strategies, market-making, and event-driven systems — without writing a single line of code.
 - [oracle3](https://github.com/YichengYang-Ethan/oracle3) — Autonomous trading agent for Kalshi, Polymarket, and Solana DFlow with Wang Transform pricing (calibrated on 291k resolved contracts, λ̂ = 0.183), eight constraint-based arbitrage strategies, hierarchical MLE, and Kelly-sized execution. Apache 2.0; backed by SSRN working paper.
+- [PredictionMarketsPicks MCP](https://predictionmarketspicks.com/mcp) — Model Context Protocol server (Streamable HTTP) exposing quant calculators and edge tools to AI agents — EV, Kelly, Bayesian update, arbitrage, and market-pulse over Kalshi/Polymarket. Registry: com.predictionmarketspicks/quant.
 
 ## 🧩 APIs
 
@@ -147,6 +148,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [PredictionMarketsPicks](https://predictionmarketspicks.com/kalshi-analysis) — Independent Kalshi & Polymarket analysis: free quant tools (EV, Kelly, probability conversion), a daily Bayesian mispricing scan, and options-vs-market commodity edge signals on bitcoin, silver, gold, and oil.
 
 ## 🔹 Arbitrage tools
 
@@ -155,7 +157,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrage](http://t.me/polytrage?utm_source=polymark.et) — Real-time Polymarket arbitrage alert service operating via Telegram channel, delivering automated arbitrage opportunity signals every 15 minutes with detailed bid-ask spreads, guaranteed profit calculations, and direct trading links for crypto markets.​
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
-- [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​
+- [PredictionMarketsPicks Arb Scanner](https://predictionmarketspicks.com/tools/arb-scanner) — Cross-platform scanner flagging the same event priced apart on Kalshi vs Polymarket, normalized to implied probability with a KL-divergence secondary read.​
 
 ## 📈 Dashboards
 
