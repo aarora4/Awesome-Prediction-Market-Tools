@@ -147,13 +147,13 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [PolyScalping](https://polyscalping.org/stats/fees) — On-chain analytics for Polymarket fees, rewards, and LP yield: $129.6M in trading fees decoded on-chain, reward distribution across LP/maker/taker/referral streams, wallet scanner, and trader leaderboards.
 
 ## 🔹 Arbitrage tools
 
 - [ArbBets](https://getarbitragebets.com/?utm_source=polymark.et) — AI-driven platform identifying arbitrage and positive expected value (EV) opportunities across Polymarket, Kalshi, and sportsbooks.
 - [Eventarb](https://www.eventarb.com/?utm_source=polymark.et) — A free tool for calculating and alerting cross-platform arbitrage opportunities in prediction markets like Polymarket, Kalshi, and Robinhood.
 - [Polytrage](http://t.me/polytrage?utm_source=polymark.et) — Real-time Polymarket arbitrage alert service operating via Telegram channel, delivering automated arbitrage opportunity signals every 15 minutes with detailed bid-ask spreads, guaranteed profit calculations, and direct trading links for crypto markets.​
-- [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
 
