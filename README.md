@@ -89,6 +89,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [OrcaLayer API](https://orcalayer.com/docs?utm_source=polymark.et) — REST + SSE API for Polymarket whale data: smart wallet stats, live trades stream, whale alerts, and ISW Ukraine events feed.
 
 ## 🔹 Aggregator
 
@@ -112,6 +113,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](https://polycopy.app) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [OrcaLayer Alerts](https://orcalayer.com/alerts?utm_source=polymark.et) — Whale trade alerts for Polymarket: big bets, coordinated buys, whale flips, and ISW Ukraine frontline events. Free public Telegram channel (@orcalayer_bot) plus personal alerts for watched wallets and markets on Pro.
 
 ## 📊 Analytics Tools
 
@@ -147,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [OrcaLayer](https://orcalayer.com/?utm_source=polymark.et) — Polymarket whale analytics with farmer-filtered smart money leaderboards, NegRisk-corrected win rates, whale flip detection, and an ISW Ukraine frontline overlay.
 
 ## 🔹 Arbitrage tools
 
