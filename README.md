@@ -180,6 +180,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
 - [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
 
+- [NeuPortal](https://neuportal.ai/experiment) — Public benchmark scoring an AI forecaster against Polymarket match-by-match: every call is locked pre-event and Bitcoin-timestamped via OpenTimestamps, then Brier-scored with losses kept on the board. Open dataset (AI forecasts vs market) on [Kaggle](https://www.kaggle.com/datasets/neuportal/ai-vs-prediction-market-bitcoin-timestamped) and [Hugging Face](https://huggingface.co/datasets/neuportal/forecasts-vs-market).
+
 ## 💸 DeFi
 
 - [Ostium](https://app.ostium.com/strategies?utm_source=polymark.et) — The first app for automating trading strategies on Polymarket data.
