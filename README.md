@@ -184,6 +184,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 - [Ostium](https://app.ostium.com/strategies?utm_source=polymark.et) — The first app for automating trading strategies on Polymarket data.
 - [Aura](https://aura.money/?utm_source=polymark.et) — Trade everything: Sports, Politics, Crypto Perps, RWA Perps, & more. Powered by: Polymarket, Hyperliquid.
+- [Dexly](https://dexly.trade/) — Self-custodial mobile app for trading Hyperliquid prediction markets alongside perps, spot, and tokenized stocks, with copy trading.
 - [SuiBets](https://suibets.com/?utm_source=polymark.et) — Decentralized sports betting protocol on Sui blockchain with verified smart contract, multisig treasury, formal verification with 13 proven security properties, and instant on-chain settlement across 8+ sports.
 - [Gondor](https://gondor.fi/?utm_source=polymark.et) — DeFi protocol for borrowing against Polymarket positions, unlocking liquidity without closing trades.
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
