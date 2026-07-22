@@ -202,6 +202,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 🔹 Funds
 
 - [PolyFund](https://www.polyfund.so/?utm_source=polymark.et) — Decentralized platform that enables skilled predictors to manage funds and investors to benefit from their expertise on Polymarket prediction markets.
+- [Funding Predicts](https://fundingpredicts.com/@decode) — The first prop firm for prediction-market traders: pass a single-phase evaluation on live Polymarket markets and trade a funded account up to $150,000 with an 80–90% profit split and weekly payouts. Backed by MyFundedFutures.
 
 ## 🏗️ Infrastructure
 
