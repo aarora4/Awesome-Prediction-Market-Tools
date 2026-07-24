@@ -188,6 +188,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Gondor](https://gondor.fi/?utm_source=polymark.et) — DeFi protocol for borrowing against Polymarket positions, unlocking liquidity without closing trades.
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
+- [MagicMarkets](https://magicmarkets.com) — Peer-to-peer sports prediction-market exchange with zero fees and zero commission; back/lay order book settled in USDT. Listed on DefiLlama as a top-10 prediction market, with public data on [Dune](https://dune.com/magicmarkets/magicmarkets).
 
 ## 📚 Educational Resources
 
