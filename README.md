@@ -112,6 +112,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](https://polycopy.app) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [Spectral Edge](https://app.cotes.ai) — Physics-trained AI for Kalshi x Polymarket BTC markets: a patent-pending engine decomposes live price into its component waves and scores how tightly they resonate. The Spectral Engine generates live UP / DOWN signals, backed by a confidence and edge rating. Available on desktop, mobile, and API — and signal replay and signal history of every settled round are free.
 
 ## 📊 Analytics Tools
 
