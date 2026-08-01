@@ -192,6 +192,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 📚 Educational Resources
 
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
+- [Polymarket Academy](https://polymarketacademy.com/) — Educational site for Polymarket copy trading with in-depth bot reviews, security comparisons, wallet-selection guides, and step-by-step tutorials.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
 
