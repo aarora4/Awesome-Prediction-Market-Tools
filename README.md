@@ -198,7 +198,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 🔹 Extensions
 
 - [PMs4X](https://chromewebstore.google.com/detail/prediction-markets-for-x/cpimmfoflnoomfabkemagplkjeaemndp?utm_source=item-share-x&utm_source=polymark.et) — Privacy-focused Chrome browser extension enabling seamless access to Polymarket directly from Twitter/X timelines, featuring instant prediction market discovery for tweets, real-time match detection with percentage accuracy, volume tracking, and zero data collection while requiring no signup or wallet connection.
-- [PolyViper](https://polyviper.com/extension) — Adds a P&L tab to Polymarket profiles: FIFO lot matching, realized/unrealized PnL net of fees, split/merge/redeem accounting, and CSV export — for your wallet or any wallet.​
+- [PolyViper](https://polyviper.com/extension) — Chrome extension adding a P&L tab to Polymarket profiles: FIFO lot matching, realized/unrealized PnL net of fees, split/merge/redeem accounting, and CSV export — for your wallet or any wallet.​
 
 ## 🔹 Funds
 
