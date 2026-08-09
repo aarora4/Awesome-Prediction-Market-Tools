@@ -115,6 +115,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 📊 Analytics Tools
 
+- [Skewfeed](https://skewfeed.com/) — Early-access analytics for investigating Polymarket and Kalshi activity, with public resources on signal stages, whale-trade interpretation, and arbitrage limitations.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
