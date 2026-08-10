@@ -116,7 +116,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 📊 Analytics Tools
 
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
-- [OVERROUND](https://overround.pro/) — Leaderboard ranking Polymarket wallets by skill-adjusted accuracy against the prices paid, with a public graded alert ledger and published out-of-time backtests.
+- [OVERROUND](https://www.overround.pro/?utm_source=polymark.et) — Grades Polymarket wallets on price-relative accuracy over independent resolved events; publishes its methodology and a graded ledger of every alert sent, losses included.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
 - [Betmoar](https://www.betmoar.fun/?utm_source=polymark.et) — Web-based Polymarket trading terminal offering powerful search, real-time news, and unique market insights.
