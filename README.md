@@ -78,6 +78,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Simmer](https://simmer.markets) — The agent harness for trading Polymarket and Kalshi autonomously. Bring your own agent (OpenClaw, Hermes, etc.), plug in remixable strategy skills, and add self-improving loops that learn from real outcomes. Paper trade with $SIM or graduate to live capital. Verified Polymarket builder. [Open-source SDK](https://github.com/SpartanLabsXyz/simmer-sdk).
 - [TurbineFi](https://turbinefi.com) — AI-powered algorithmic trading platform for prediction market trading on Kalshi and Polymarket, enabling users to build, backtest, and deploy thousands of automated trading bots in seconds. Combines trading strategy backtesting, prediction market analytics, and financial trading automation with AI-powered trading tools that generate, optimize, and execute strategies — including arbitrage trading strategies, market-making, and event-driven systems — without writing a single line of code.
 - [oracle3](https://github.com/YichengYang-Ethan/oracle3) — Autonomous trading agent for Kalshi, Polymarket, and Solana DFlow with Wang Transform pricing (calibrated on 291k resolved contracts, λ̂ = 0.183), eight constraint-based arbitrage strategies, hierarchical MLE, and Kelly-sized execution. Apache 2.0; backed by SSRN working paper.
+- [Quotient](https://thesis.quotient.social) — Forecasting agent that returns calibrated, source-cited probabilities for Kalshi and Polymarket markets or for any arbitrary question, usable as a second opinion alongside your own read.
 
 ## 🧩 APIs
 
@@ -89,6 +90,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Quotient](https://thesis.quotient.social) — API-key endpoints for cross-venue market discovery, model forecasts and forecast-versus-venue spreads, article and X evidence, and on-demand forecast requests across Polymarket, Kalshi, and Limitless.
 
 ## 🔹 Aggregator
 
