@@ -167,6 +167,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Zapper](https://zapper.xyz/apps/polymarket?utm_source=polymark.et) — Comprehensive Web3 asset management platform featuring integrated Polymarket position tracking, multi-chain portfolio monitoring, and DeFi protocol exploration across 50+ blockchains.
 - [LayerHub](https://layerhub.xyz/protocols/polymarket?utm_source=polymark.et) — Comprehensive on-chain analytics platform specializing in wallet activity analysis for crypto projects, featuring dedicated Polymarket analytics with real-time tracking and individual wallet performance insights.
 - [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket?utm_source=polymark.et) — Comprehensive Dune Analytics dashboard tracking automated trading bot activity and market share across major Polymarket trading platforms.
+- [Prediction Bubbles](<https://predictionbubbles.net/?utm_source=awesome-pm-tools&utm_medium=directory>) — Every open Polymarket and Kalshi market on one live bubble board, sized by volume and colored by probability, with a free embeddable widget and no signup.
 
 ## 📡 Data
 
