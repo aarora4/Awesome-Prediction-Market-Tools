@@ -219,6 +219,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Prediction News](https://predictionnews.com/?utm_source=polymark.et) — Comprehensive news, analysis, and data-driven insights covering the growing prediction market industry.
 - [Stocktwits](https://stocktwits.com?utm_source=polymark.et) — World's largest social media platform for traders and investors with 10+ million users, featuring real-time market discussions and integrated prediction market probabilities.
 - [Boring News](https://www.notboring.co/?utm_source=polymark.et) — AI-powered daily news show that uses Polymarket prediction market odds as the foundation for unbiased, data-driven news delivery across YouTube, X, and podcast platforms.
+- [Predict Radar](https://predictradar.me/?utm_source=polymark.et) — AI Powered news & educational hub on prediction markets all over the globe.
 
 ## 🏛️ Official
 
