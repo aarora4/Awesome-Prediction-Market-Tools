@@ -112,6 +112,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](https://polycopy.app) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [WhalesInsider](https://whalesinsider.com) — Instant Polymarket whale-bet and cross-venue arbitrage alerts via Telegram, Discord, and X, with a per-wallet Insider Score to filter for historically accurate wallets.
 
 ## 📊 Analytics Tools
 
@@ -147,6 +148,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [WhalesInsider](https://whalesinsider.com) — Real-time Polymarket whale tracker with a per-wallet Insider Score based on historical accuracy, event and market analytics, and category leaderboards; free tier with Premium unlocking full wallets, exact sizes, and whale direction.
 
 ## 🔹 Arbitrage tools
 
@@ -156,6 +158,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [WhalesInsider](https://whalesinsider.com/edge) — Cross-venue arbitrage and positive-EV value forks across Polymarket, Kalshi, SX Bet, Azuro, and Limitless, showing net edge after maker/taker fees, order-book depth for max fillable stake, and whale-anchored fair value.
 
 ## 📈 Dashboards
 
