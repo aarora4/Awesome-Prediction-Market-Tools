@@ -226,6 +226,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🟪 Others
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available QA agent for natural-language web and mobile tests, with persistent test memory, a CLI, and an MCP server. It is an adjacent application-testing tool, not a prediction-market data or trading tool.
 - [Kaito](https://kaito.ai/?utm_source=polymark.et) — Web3 information platform tracking mindshare across multiple prediction market platforms with real-time analytics and creator leaderboards.
 - [Cookie fun](https://www.cookie.fun/tokens/polymarket?utm_source=polymark.et) — cookie.fun is the index & data layer for all AI agents shows top gainers regarding mindshare, smart following, engagement, and onchain data.
 - [Prediction Index](https://predictionindex.xyz/?utm_source=polymark.et) — Largest real-time directory and ranking dashboard for prediction markets—track, filter, and discover 140+ projects by chain, type, and status.
