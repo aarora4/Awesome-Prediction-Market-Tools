@@ -115,6 +115,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 📊 Analytics Tools
 
+- [Polyrama](https://polyrama.io/) — Free real-time prediction-market terminal and MCP server for Polymarket and Kalshi, with live odds, market search, public-wallet analytics, trader leaderboards, whale and mispricing signals, and historical backtests. The [open-source MCP server](https://github.com/Polyrama/mcp) supports research and paper orders only, not live trade execution.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
 - [Polysights](https://app.polysights.xyz/?utm_source=polymark.et) — AI-powered Polymarket analytics with 30+ custom metrics, news insights, alerts, and AI-driven summaries.
 - [Hashdive](https://www.hashdive.com/?utm_source=polymark.et) — A platform designed to provide advanced Polymarket and Kalshi analytics, with a special focus on Smart Scores.
