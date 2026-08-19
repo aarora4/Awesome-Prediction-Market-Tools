@@ -89,6 +89,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Front of Goal](https://frontofgoal.com/llms.txt) — Free, no-key soccer-only Polymarket API: live odds, order-book depth, per-match context (venue, referee, form, every market), upcoming fixtures, and biggest 1-day movers, fused from Polymarket + ESPN in one call. OpenAPI at [frontofgoal.com/openapi.json](https://api.frontofgoal.com/openapi.json); also available as an [MCP server](https://registry.modelcontextprotocol.io) (`com.frontofgoal/odds-api`) and an A2A agent.
 
 ## 🔹 Aggregator
 
