@@ -103,6 +103,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 - [Nevua Markets](https://nevua.markets/?utm_source=polymark.et) — Live Polymarket watchlists with real-time alerts—get instant updates on Telegram, Discord, webhooks, or your browser.
 - [PolyAlertHub](https://polyalerthub.com/?utm_source=polymark.et) — Get real-time alerts on profitable traders, whales, and market trends. Never miss an update—get alerts straight to your email or Telegram.
+- [ResolutionWire](https://resolutionwire.com) — Watches the primary sources that decide markets (Treasury, BLS, Fed, SEC, courts) and timestamps the moment answers publish—every call graded publicly against venue settlements on a hash-chained public ledger.
 - [Stand](https://www.stand.trade/?utm_source=polymark.et) — Track and copy trade Polymarket whales. Receive lightning fast alerts when prediction market traders make high-conviction moves.
 - [alerts chat](https://alerts.chat/?utm_source=polymark.et) — Telegram-native app providing customizable real-time alerts on price actions for Polymarket and Kalshi markets.
 - [BBB](https://docs.bbb.community?utm_source=polymark.et) — Exclusive gated boutique solution providing advanced on-chain trading tools and Polymarket intelligence alerts for researchers and traders, limited to 150 members with invitation-only access.
@@ -274,3 +275,4 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Converge](https://converge.market?utm_source=polymark.et) — First prediction market aggregator and professional trading terminal unifying fragmented markets across Polymarket, Kalshi, and Limitless into one seamless platform featuring zero added fees, chain-agnostic architecture, custody-free operations, cross-venue arbitrage detection, and professional-grade tools for unified portfolio management.​
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=polymark.et) — Professional-grade trading terminal for prediction markets featuring advanced orders, comprehensive monitoring, and Bloomberg interface with integrated Polymarket social feeds and user analytics. Built by traders for traders, currently in public beta.
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
+
