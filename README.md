@@ -89,6 +89,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [MarketMaster Data API](https://marketmaster.live/developers) — REST and WebSocket API for cross-venue prediction market data: modelled fair value and EV edges, resolution-verified matched pairs, arbitrage and $10k+ whale trades across Kalshi and Polymarket. Free tier at 1,000 requests/month, Python and JavaScript SDKs, and an MCP server for Claude and Cursor.
 
 ## 🔹 Aggregator
 
@@ -156,6 +157,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [MarketMaster](https://marketmaster.live) — Live edge terminal for Kalshi and Polymarket that models a fair value and EV edge for every market, then machine-verifies that both legs of a cross-venue pair resolve on identical criteria before labelling anything arbitrage. Prices opportunities off live ask prices using each venue's exact fee curve and ranks them by annualised return rather than raw spread; ambiguous pairs are withheld rather than printed as risk-free. Free scanner, analyzer with quarter-Kelly sizing, trade journal and $10k+ whale feed.
 
 ## 📈 Dashboards
 
