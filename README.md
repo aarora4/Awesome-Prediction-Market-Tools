@@ -89,6 +89,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Rivo](https://rivo.markets/docs) — REST API and a remote MCP server (24 tools) for prediction market data, backtesting and trading. Listed in the official MCP registry as `markets.rivo/rivo`.
 
 ## 🔹 Aggregator
 
@@ -103,6 +104,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 - [Nevua Markets](https://nevua.markets/?utm_source=polymark.et) — Live Polymarket watchlists with real-time alerts—get instant updates on Telegram, Discord, webhooks, or your browser.
 - [PolyAlertHub](https://polyalerthub.com/?utm_source=polymark.et) — Get real-time alerts on profitable traders, whales, and market trends. Never miss an update—get alerts straight to your email or Telegram.
+- [Rivo](https://rivo.markets) — Real-time alerts for the specific Polymarket and Kalshi accounts you follow, delivered to Telegram or an in-app inbox, plus daily digests for rule-based strategies.
 - [Stand](https://www.stand.trade/?utm_source=polymark.et) — Track and copy trade Polymarket whales. Receive lightning fast alerts when prediction market traders make high-conviction moves.
 - [alerts chat](https://alerts.chat/?utm_source=polymark.et) — Telegram-native app providing customizable real-time alerts on price actions for Polymarket and Kalshi markets.
 - [BBB](https://docs.bbb.community?utm_source=polymark.et) — Exclusive gated boutique solution providing advanced on-chain trading tools and Polymarket intelligence alerts for researchers and traders, limited to 150 members with invitation-only access.
@@ -122,6 +124,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Parsec](https://parsec.fi/polymarket?utm_source=polymark.et) — Parsec provides real-time data analytics and insights for Polymarkets, helping users make informed decisions.
 - [MobyScreener](https://www.mobyscreener.com/predictions-feed?utm_source=polymark.et) — Live feed tracking top Polymarket traders’ buys and sells in real time for actionable prediction market insights.
 - [PolyScope](https://discord.com/invite/polyscope?utm_source=polymark.et) — Free real-time monitoring suite for Polymarket tracking trending markets, odds changes, and smart trader activity.
+- [Rivo](https://rivo.markets) — Prediction market terminal for Polymarket and Kalshi: large trades with the trader, market, side and entry price attached, traders ranked on settled performance, and resolved win/loss history.
 - [Synthesis](https://synthesis.trade/?utm_source=polymark.et) — Institutional-grade dashboard for live orderbooks and cross-market price comparison on Polymarket, Kalshi, and Limitless.
 - [PredictFolio](https://predictfolio.com?utm_source=polymark.et) — Free Polymarket trader analytics platform enabling users to analyze, compare, and track trading performance and statistics.
 - [PolymarketDash](https://www.polymarketdash.com/?utm_source=polymark.et) — Professional trader analytics and real-time monitoring tool for Polymarket, specializing in smart money tracking and in-depth data analysis.
@@ -264,6 +267,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Rainmaker](https://rainmaker.fun/?utm_source=polymark.et) — AI agent-powered terminal unifying arbitrage, copy-trading, and analytics for Polymarket and Kalshi—featuring the Cloud9 Agentic Terminal.
 - [PolyBot](https://polybot.trading/?utm_source=polymark.et) — Fast, self-custodial Telegram trading bot for Polymarket featuring Gnosis Safe integration, gas-sponsored transactions, and seamless paste-to-trade functionality directly within chat.
 - [Polyburg](https://polyburg.com/?utm_source=polymark.et) — Real-time intelligence terminal for tracking Polymarket's most profitable traders through smart wallet monitoring, AI-powered insights, and instant Telegram alerts.
+- [Rivo](https://rivo.markets) — Backtest a rule against markets that already resolved, run it on paper, then execute it on Autopilot through your own connected account. Live on Kalshi; Polymarket is paper only. Non-custodial.
 - [Rocket](https://userocket.app/?utm_source=polymark.et) — cutting-edge prediction market aggregator designed to give you the edge in forecasting and market analysis.
 - [Datalayer](https://datalayer.xyz/?utm_source=polymark.et) — AI companion platform for onchain trading across memes, perps, yield farming, and prediction markets. Powered by Hyperliquid, Polymarket, Solana, BSC and Base.
 - [Predicton](https://predicton-guide.gitbook.io?utm_source=polymark.et) — Trade politics, news, and sports directly in Telegram, TON-native prediction market powered by Polymarket.
