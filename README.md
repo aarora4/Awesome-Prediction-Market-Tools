@@ -124,6 +124,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScope](https://discord.com/invite/polyscope?utm_source=polymark.et) — Free real-time monitoring suite for Polymarket tracking trending markets, odds changes, and smart trader activity.
 - [Synthesis](https://synthesis.trade/?utm_source=polymark.et) — Institutional-grade dashboard for live orderbooks and cross-market price comparison on Polymarket, Kalshi, and Limitless.
 - [PredictFolio](https://predictfolio.com?utm_source=polymark.et) — Free Polymarket trader analytics platform enabling users to analyze, compare, and track trading performance and statistics.
+- [Polyfollow](https://www.polyfollow.com/) — Polymarket trader search and analytics with public wallet profiles, performance comparisons, leaderboards, and optional automated copy trading.
 - [PolymarketDash](https://www.polymarketdash.com/?utm_source=polymark.et) — Professional trader analytics and real-time monitoring tool for Polymarket, specializing in smart money tracking and in-depth data analysis.
 - [Pricediction](https://web3-pricediction.vercel.app/?utm_source=polymark.et) — AI-powered prediction market toolkit for deep research, automatic analysis, and direct trading on Kalshi and Polymarket.
 - [Polysimplr](https://www.polysimplr.com/?utm_source=polymark.et) — A user-friendly Polymarket interface with AI-powered chat and analysis—making prediction markets more accessible for all.
