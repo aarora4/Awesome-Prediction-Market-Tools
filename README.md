@@ -206,6 +206,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🏗️ Infrastructure
 
+- [kalshi-cli](https://github.com/bobashopcashier/kalshi-cli) — Go command-line client for the Kalshi Trade API v2 with versioned, schema-validated JSON, bounded reads, and governed writes for agents and scripts.
 - [Kuest](https://kuest.com) — Open-source protocol/infrastructure for launching and operating your own prediction market deployment at Polygon.
 - [SEDA](https://docs.seda.xyz/?utm_source=polymark.et) — SEDA brings Polymarket’s entire market data layer onchain. Developers can use Oracle Programs to transform prediction markets into composable DeFi primitives—powering perpetuals, lending, arbitrage tools, and custom derivatives across chains.
 - [Dimes](https://dimes.fi?utm_source=polymark.et) — Embedded credit infrastructure for onchain front-ends. Enables trading terminals, wallets, and apps to natively offer leveraged prediction market exposure via REST API integration, handling all credit provisioning, hedging, and risk management.
