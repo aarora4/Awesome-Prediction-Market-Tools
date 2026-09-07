@@ -195,6 +195,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [Polywise](https://polywise.tyki.app) — Free Duolingo-style learning game that teaches prediction market fundamentals: prices as probabilities, edge and expected value, and resolution rules. Includes a free payout/edge calculator and a 40-term glossary; no account required.
 
 ## 🔹 Extensions
 
