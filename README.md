@@ -255,6 +255,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🤖 Trading Bots
 
+- [Sonist](https://sonist.tech/) — Sonist automates live mention-market trading on Kalshi and Polymarket. It brings markets from both exchanges into one interface and monitors live audio, subtitle feeds, or accessibility captions for configured words. When a word is said, Sonist applies your risk limits and sends the trade through your account, letting you use the lowest-latency source available for each event.
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
 - [Polymtrade](https://polym.trade/?utm_source=polymark.et) — The first mobile trading terminal for Polymarket with AI-powered insights.
 - [okbet](https://tryokbet.com/?utm_source=polymark.et) — Telegram-based terminal for trading on Polymarket & Kalshi—trade, bet, and copy top performers with your friends, all from chat.
