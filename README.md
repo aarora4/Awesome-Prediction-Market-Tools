@@ -4,6 +4,7 @@
 
 > The most complete, community-maintained directory of prediction market tools — analytics platforms, trading bots, dashboards, APIs, data feeds, alert systems, educational resources, and more.  
 > Covering Polymarket, Kalshi, Manifold, Hyperliquid, and the wider forecasting ecosystem.
+- [PolyClawster](https://github.com/al1enjesus/polyclawster) - AI agent for Polymarket trading. Whale signal detection (200+ wallets), signal scoring 0-10, non-custodial. OpenClaw skill + Telegram Mini App. [Leaderboard](https://polyclawster.com/leaderboard)
 
 Pull requests welcome — add your tool or improve the list!
 
