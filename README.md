@@ -148,6 +148,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [Kykloi](https://kykloi.com) — Prediction-market signal intelligence with a public, pre-committed, auto-graded ledger. Every call is timestamped before resolution and graded automatically, wins and losses both published. 61K+ logged signals and 49K+ graded outcomes since Oct 2025 across 19 data pipelines.
+
 
 ## 🔹 Arbitrage tools
 
