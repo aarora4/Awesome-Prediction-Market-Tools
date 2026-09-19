@@ -239,6 +239,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Fake-A-Polymarket](https://fake-a-polymarket.com?utm_source=polymark.et) — Popular generator tool for creating realistic fake Polymarket prediction market charts with customizable odds, volatility, volume data, and chart patterns for marketing, entertainment, and educational purposes.
 - [Liquid](https://protocol.useliquid.xyz?utm_source=polymark.et) — Insurance protocol for prediction markets that enables traders to set customizable loss caps and receive cash-back protection through one-tap activation on any bet.
 - [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.
+- [Openhedge](https://openhedge.app/?utm_source=polymark.et) — Open source, self hostable, experimental tool for discovering relevant hedges using event contracts and prediction markets: maps a small-business exposure to live Kalshi markets, sizes a cash-flow hedge, and says so when nothing fits. Does not hold money or place trades. Hosted MCP plus Docker/Railway self-host. [GitHub](https://github.com/mark-antal-csizmadia/openhedge).
 
 ## 🔹 Parlays
 
