@@ -99,6 +99,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [TradeFox](https://thetradefox.com?utm_source=polymark.et) — Professional prediction market aggregator and prime brokerage platform backed by Alliance DAO and CMT Digital, featuring advanced order execution, self-custodial trading, and institutional-grade tools across multiple prediction markets.
 - [OkayBet](https://www.okaybet.app/?utm_source=polymark.et) — Prediction market infrastructure platform that builds applications on top of prediction markets, featuring AI trading agents, market aggregation, and parlay betting across multiple platforms.
 - [Kairos](https://kairos.trade/?utm_source=polymark.et) — Free cross-venue prediction market trading terminal that merges Kalshi, Polymarket, and Predict.fun order books into one ladder with NBBO routing to whichever venue shows the best price, sub-second streaming data, and advanced order types (limit with time-in-force, stop loss, take profit). REST and WebSocket API with the aggregation already done. Seed led by a16z crypto; covered by Fortune, Bloomberg, and CNBC.
+- [VoxOdds](https://voxodds.com/polymarket-vs-kalshi) — Compares all-in prices, including fees, for $100 orders on Polymarket and Kalshi contracts with reviewed equivalent resolution rules.
 
 ## 🔔 Alerts
 
