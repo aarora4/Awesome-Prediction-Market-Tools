@@ -256,6 +256,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🤖 Trading Bots
 
+- [BlockRotate](https://blockrotate.com/) — The fastest Polymarket copy trading platform, delivering sub-1ms fills, non-custodial L2 credential isolation, and automated trade replication to mirror elite traders with institutional execution speed.
 - [Polycule](https://www.polycule.trade/?utm_source=polymark.et) — Telegram bot for seamless Polymarket trading, enabling mobile, social, and group trades from anywhere in the world.
 - [Polymtrade](https://polym.trade/?utm_source=polymark.et) — The first mobile trading terminal for Polymarket with AI-powered insights.
 - [okbet](https://tryokbet.com/?utm_source=polymark.et) — Telegram-based terminal for trading on Polymarket & Kalshi—trade, bet, and copy top performers with your friends, all from chat.
