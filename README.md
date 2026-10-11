@@ -196,6 +196,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [Bellwether](https://bellwether.market/?utm_source=polymark.et) — Independent US-focused guides, platform reviews and live odds trackers for Kalshi and Polymarket, plus a free embeddable odds widget.
 
 ## 🔹 Extensions
 
