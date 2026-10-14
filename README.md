@@ -196,6 +196,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [Polymarket Strategy Handbook](https://github.com/polytutor-ai/polymarket-strategy-handbook) — Research-first docs on 39 prediction-market strategies, covering execution mechanics, backtesting, risk, and failure modes.
 
 ## 🔹 Extensions
 
@@ -276,3 +277,4 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Converge](https://converge.market?utm_source=polymark.et) — First prediction market aggregator and professional trading terminal unifying fragmented markets across Polymarket, Kalshi, and Limitless into one seamless platform featuring zero added fees, chain-agnostic architecture, custody-free operations, cross-venue arbitrage detection, and professional-grade tools for unified portfolio management.​
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=polymark.et) — Professional-grade trading terminal for prediction markets featuring advanced orders, comprehensive monitoring, and Bloomberg interface with integrated Polymarket social feeds and user analytics. Built by traders for traders, currently in public beta.
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
+- [PolyTutor Polymarket Trading Bots](https://github.com/polytutor-ai/polymarket-trading-bot) — Open-source Polymarket trading bots and strategy case studies covering crypto Up/Down, arbitrage, hedging, copy trading, and market making.
