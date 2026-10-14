@@ -196,6 +196,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [Prediction Market Use Cases](https://prediction-market-use-cases.vercel.app/) — Free directory of public Kalshi and Polymarket bots, AI agents and tools, each with its source link, dates and GitHub stars, plus build guides and side-by-side comparisons.
 
 ## 🔹 Extensions
 
