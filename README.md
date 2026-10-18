@@ -240,6 +240,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Fake-A-Polymarket](https://fake-a-polymarket.com?utm_source=polymark.et) — Popular generator tool for creating realistic fake Polymarket prediction market charts with customizable odds, volatility, volume data, and chart patterns for marketing, entertainment, and educational purposes.
 - [Liquid](https://protocol.useliquid.xyz?utm_source=polymark.et) — Insurance protocol for prediction markets that enables traders to set customizable loss caps and receive cash-back protection through one-tap activation on any bet.
 - [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.
+- [Perfect Clock](https://perfectclock.cc/polymarket?utm_source=polymark.et) — Free timeline calendar of Polymarket markets next to the events they resolve on (F1, NBA, NHL, Fed and CPI decisions, BTC prices, rocket launches), shown in your time zone with daily-updated odds.
 
 ## 🔹 Parlays
 
