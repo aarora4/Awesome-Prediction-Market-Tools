@@ -213,6 +213,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
+- [OmniRoute Bridge MCP](https://github.com/c-viper-work/omniroute-bridge-mcp) — Open-source cross-chain bridge, 1-click Polymarket (`USDC.e` + `POL` on Polygon) & Hyperliquid (`HYPE` on HyperEVM / `USDC` on Arbitrum) onboarding terminal, CLI, and MCP server ([Live Web App](https://c-viper-work.github.io/omniroute-bridge-mcp/)).
 
 ## 📰 News
 
