@@ -81,6 +81,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🧩 APIs
 
+- [PolyEdge](https://polyedge.dev) — Ultra-Low-Latency Polymarket Mempool Trade Streaming & Real-Time On-Chain Analytics API. Engineered for Polymarket copy-trading bots, professional traders, and prediction market builders. Capture pending trades pre-block and track smart money with institutional-grade on-chain analytics.
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) — Polymarket sentiment API for stock and ETF tickers, providing buzz scores, trend signals, bullish/bearish sentiment, and compare endpoints for dashboards and trading tools.
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
