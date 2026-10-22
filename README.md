@@ -158,6 +158,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [MKTGAP](https://mktgap.com) — Compares the price of the same event across Polymarket, Kalshi, PredictIt, Limitless and Gemini Predictions and measures the gap after each platform's fees, using the official fee formulas. Free fee calculator, platform guides, glossary and published methodology.
 
 ## 📈 Dashboards
 
@@ -196,6 +197,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [MKTGAP Guides](https://mktgap.com/learn) — Guides, glossary and fee explainers for Polymarket, Kalshi, PredictIt, Limitless and Gemini Predictions, sourced only from official documents, with a published methodology and a Kalshi vs Polymarket comparison.
 
 ## 🔹 Extensions
 
