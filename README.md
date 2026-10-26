@@ -200,6 +200,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 ## 🔹 Extensions
 
 - [PMs4X](https://chromewebstore.google.com/detail/prediction-markets-for-x/cpimmfoflnoomfabkemagplkjeaemndp?utm_source=item-share-x&utm_source=polymark.et) — Privacy-focused Chrome browser extension enabling seamless access to Polymarket directly from Twitter/X timelines, featuring instant prediction market discovery for tweets, real-time match detection with percentage accuracy, volume tracking, and zero data collection while requiring no signup or wallet connection.​
+- [Actually](https://chromewebstore.google.com/detail/actually-what-markets-rea/gckkkfhpbklhnjhhpjhjfhamhbllkkcd) - Free Chrome extension and MCP server that match the news article you are reading to a live Polymarket market and show its price, with local matching and no account needed.
 
 ## 🔹 Funds
 
