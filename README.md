@@ -253,6 +253,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyTracker](https://t.me/polytracker0_bot?utm_source=polymark.et) — Telegram bot for monitoring specified Polymarket wallet activities, providing real-time notifications on new transactions with market details and direct links, including commands for tracking, listing, and profile viewing, developed by @nlabplay with ongoing stability improvements.
 - [Polylerts](https://t.me/Polylerts_bot?utm_source=polymark.et) — Free Telegram bot that enables tracking up to 15 Polymarket wallets with real-time trade alerts, comprehensive analytical reports, and advanced watchlist management features to monitor and learn from top prediction market traders.
 - [Polycool](https://polycool.live/?utm_source=polymark.et) — Real-time Polymarket smart trader tracking platform that identifies and alerts users to big trades from the top 0.5% of wallets, providing "Bloomberg for prediction markets" via 24/7 Telegram notifications and copy trading opportunities to follow insider moves before odds shift.
+- [polyfees](https://polyfees.com/) — Fees a Polymarket wallet paid in the last 30 days, to the cent, next to the month's result as the Polymarket profile shows it (before fees) and after fees. Paste any public address; free, no login. Also a fee calculator and fee rates of 30 Polymarket apps.
 
 ## 🤖 Trading Bots
 
