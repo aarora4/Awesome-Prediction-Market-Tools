@@ -81,6 +81,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🧩 APIs
 
+- [0xinsider API & MCP](https://0xinsider.com/developers?utm_source=polymark.et) — REST API, remote MCP server and Node, Python, Go and Rust SDKs for Polymarket sports and esports markets: S-F wallet grades, both sides of every game, large trades, positions and trader P&L, with a published OpenAPI spec and a keyless sandbox.
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) — Polymarket sentiment API for stock and ETF tickers, providing buzz scores, trend signals, bullish/bearish sentiment, and compare endpoints for dashboards and trading tools.
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
@@ -149,6 +150,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [0xinsider](https://0xinsider.com/?utm_source=polymark.et) — Polymarket analytics for sports and esports markets: every wallet graded S through F from its settled record, both sides of every game with the profitable-wallet money on each, large trades tagged with the grade of the wallet behind them, and daily picks on a public record.
 
 ## 🔹 Arbitrage tools
 
