@@ -83,6 +83,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) — Polymarket sentiment API for stock and ETF tickers, providing buzz scores, trend signals, bullish/bearish sentiment, and compare endpoints for dashboards and trading tools.
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
+- [Bravado](https://docs.bravadotrade.com/) — Prediction-market infrastructure providing trader analytics, live order-book streams, execution APIs for Polymarket and Predict.fun, and an OAuth MCP server for AI agents.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
 - [Marketlens](https://marketlens.trade/) — Data platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API for quantitative research and strategy development.
