@@ -149,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [PrognosX](https://prognosx.com/en) — Sports-only Polymarket whale tracker. Its Smart score (0–100) ranks wallets by closing line value — tested on 634,000 whale bets over 90 days, where size and past profit predicted nothing. Whale ideas, whale-vs-whale duels, every signal tracked to the result, losses included. Free plan, Telegram bot.
 
 ## 🔹 Arbitrage tools
 
