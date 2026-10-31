@@ -181,7 +181,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [TREMOR](https://github.com/sculptdotfun/tremor) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
 - [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
-- [Reservoir](https://docs.hydromancer.xyz/reservoir) — Free archive of Hyperliquid HIP-4 prediction-market data by Hydromancer: every HIP-4 trade, split, merge and settlement since launch in May 2026, plus 1-minute order book snapshots, as daily Parquet files on AWS S3 under CC BY 4.0, with a free sample on [Hugging Face](https://huggingface.co/datasets/realjojo/hyperliquid-reservoir).
+- [Reservoir](https://docs.hydromancer.xyz/reservoir) — Requester-pays archive of Hyperliquid data by Hydromancer, including HIP-4 prediction-market trades, splits, merges and settlements plus 1-minute order book snapshots, as Parquet files on AWS S3, with a free CC BY 4.0 sample on [Hugging Face](https://huggingface.co/datasets/realjojo/hyperliquid-reservoir).
 
 ## 💸 DeFi
 
