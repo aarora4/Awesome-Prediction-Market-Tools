@@ -85,6 +85,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Adjacent News](https://adj.news/?utm_source=polymark.et) — Forward-looking news platform delivering prediction market-driven, contextual, and breaking news with advanced data and trading APIs.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=polymark.et) — Open-source, columnar OLAP database delivering blazing-fast analytics for large-scale, real-time data across multiple industries.
 - [Dome](https://domeapi.io?utm_source=polymark.et) — Developer infrastructure platform providing unified APIs and SDKs for accessing real-time and historical prediction market data across multiple platforms.
+- [Kalshi Eye](https://kalshieye.com/?utm_source=awesome-prediction-market-tools&utm_medium=listing) — 69B+ rows of Kalshi, Polymarket and Limitless order book history: every book change, trade and settlement, published daily as Parquet with a REST API, Python client and MCP server.
 - [Marketlens](https://marketlens.trade/) — Data platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API for quantitative research and strategy development.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
