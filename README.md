@@ -90,6 +90,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [SpectralEdge Public Signals API](https://spectralbot.cotes.ai/docs/) — REST and SSE API for Kalshi's BTC 15-minute markets (KXBTC15M): live markets plus model signals with confidence, entry price and edge, graded win/loss after settlement. Free trial, then paid. (Disclosure: submitted by the maker.)
 
 ## 🔹 Aggregator
 
@@ -181,6 +182,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [TREMOR](https://github.com/sculptdotfun/tremor) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
 - [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
+- [Kalshi BTC 15-minute win rate by price](https://spectralbot.cotes.ai/learn/how-often-do-90-cent-contracts-win/) — Free CSV of how often YES won by 5¢ price bucket and time left, across 9,312 settled KXBTC15M markets.
 
 ## 💸 DeFi
 
