@@ -150,6 +150,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
 
+- [TickTilt](https://ticktilt.com) — Free live Up/Down lean signals and countdowns for Kalshi's 15-minute BTC, ETH, SOL and XRP rounds, plus plain-English guides. Information only, not advice.
+
 ## 🔹 Arbitrage tools
 
 - [ArbBets](https://getarbitragebets.com/?utm_source=polymark.et) — AI-driven platform identifying arbitrage and positive expected value (EV) opportunities across Polymarket, Kalshi, and sportsbooks.
