@@ -90,6 +90,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [kalshi-fees](https://github.com/Div770770/kalshi-fees) - MIT Python library for the Kalshi taker and maker fee with Kalshi's documented rounding, fractional contracts, after-fee break-even and Kelly sizing; no dependencies.
 
 ## 🔹 Aggregator
 
@@ -149,6 +150,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [EVDESK](https://evdesk.ai/) - Trading desk for Kalshi with every open market, the full order book, the fee on both routes (take now or rest a limit order), Kelly sizing, and order placement from your own Kalshi account. Also offers free, no-sign-up Kalshi tools: a [fee calculator](https://evdesk.ai/tools/kalshi-fee-calculator), an [odds converter](https://evdesk.ai/tools/kalshi-odds-converter) with the after-fee break-even, and a [Kelly and EV calculator](https://evdesk.ai/tools/kelly-ev-calculator).
 
 ## 🔹 Arbitrage tools
 
