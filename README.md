@@ -190,6 +190,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Gondor](https://gondor.fi/?utm_source=polymark.et) — DeFi protocol for borrowing against Polymarket positions, unlocking liquidity without closing trades.
 - [HyperOdd](https://hyperodd.com?utm_source=polymark.et) — Leveraged prediction market platform offering up to 20x leverage on politics, sports, crypto, and stocks.
 - [Robin](https://robin.markets?utm_source=polymark.et) — Yield-bearing prediction market platform enabling users to earn DeFi yields on Polymarket positions through automated capital deployment and delta-neutral strategies.
+- [Prediction Arena](https://predictionarena.online) — Binary prediction markets on Base, settled in USDC on-chain. 235 markets priced from live feeds; every resolution is written on-chain as a hash, so the settlement is checkable without trusting the operator.
 
 ## 📚 Educational Resources
 
