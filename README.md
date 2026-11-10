@@ -114,6 +114,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](https://polycopy.app) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [Kellian](https://kellian.app) — Free alerts when the price moves, a trader you watch trades, smart money moves or a trade of $10,000 or more lands on a Polymarket market; on the site, Telegram, Discord or a webhook. A free account holds 5, sent hourly or daily. Not affiliated with Polymarket.
 
 ## 📊 Analytics Tools
 
@@ -149,6 +150,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [Kellian](https://kellian.app) — Shows who's buying each side of a Polymarket market: traders ranked Tier 1-3 by profit in each topic and what they bought or sold in the last 24 hours, with what moved, news, AI research per market and a public record scoring forecasts against the price. Free alerts on price moves, smart-money moves and trades of $10,000 or more (5 per account, hourly or daily). MCP server at mcp.kellian.app. Not affiliated with Polymarket.
 
 ## 🔹 Arbitrage tools
 
