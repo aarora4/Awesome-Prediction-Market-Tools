@@ -149,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [Mentyn](https://mentyn.com) — Word counts for Kalshi mention markets: for every open market, how often the speaker has said each word in their recent appearances, counted the way the market's rules count it, from public transcripts of speeches, briefings, interviews and earnings calls, shown beside Kalshi's current YES and NO asks under licence. Free, with a paid Pro tier.
 
 ## 🔹 Arbitrage tools
 
