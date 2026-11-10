@@ -149,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [onchainpoly](https://onchainpoly.com/) — Analytics for Polymarket esports markets: per-game wallet leaderboards with A–F grades, smart money and closing line value on every match.
 
 ## 🔹 Arbitrage tools
 
@@ -276,3 +277,4 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Converge](https://converge.market?utm_source=polymark.et) — First prediction market aggregator and professional trading terminal unifying fragmented markets across Polymarket, Kalshi, and Limitless into one seamless platform featuring zero added fees, chain-agnostic architecture, custody-free operations, cross-venue arbitrage detection, and professional-grade tools for unified portfolio management.​
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=polymark.et) — Professional-grade trading terminal for prediction markets featuring advanced orders, comprehensive monitoring, and Bloomberg interface with integrated Polymarket social feeds and user analytics. Built by traders for traders, currently in public beta.
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
+- [chainui](https://chainui.app/) — Trading terminal for Polymarket esports markets with every map on one screen, full order book, limit orders and automatic exits.
