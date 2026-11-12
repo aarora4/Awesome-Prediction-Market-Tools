@@ -240,6 +240,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Fake-A-Polymarket](https://fake-a-polymarket.com?utm_source=polymark.et) — Popular generator tool for creating realistic fake Polymarket prediction market charts with customizable odds, volatility, volume data, and chart patterns for marketing, entertainment, and educational purposes.
 - [Liquid](https://protocol.useliquid.xyz?utm_source=polymark.et) — Insurance protocol for prediction markets that enables traders to set customizable loss caps and receive cash-back protection through one-tap activation on any bet.
 - [PolyHedg](https://polyhedg.com/?utm_source=polymark.et) — Certainty-as-a-Service platform that transforms unpredictable corporate event risks into fixed, budgetable costs through automated Polymarket prediction market hedging strategies.
+- [GADUIN](https://gaduin.com) — Prediction market for real-world transport: flight delays, train punctuality and ship traffic through chokepoints such as the Strait of Hormuz, with free live status pages and a keyless MCP server (`https://gaduin.com/mcp`) for AI agents.
 
 ## 🔹 Parlays
 
