@@ -44,6 +44,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🧠 AI Agents
 
+- [Settlement Edge](https://iamaanahmad.github.io/delphi-agent/) — Open-source evidence-first prediction-market trading agent that reads reviewed settlement sources, checks executable quotes and risk limits, and records hash-linked decisions.
 - [Alphascope](https://www.alphascope.app/?utm_source=polymark.et) — AI-driven market intelligence engine for prediction markets, delivering real-time signals, research, and probability shifts.
 - [Octagon AI](https://octagonai.co/?utm_source=polymark.et) — Intelligence layer for prediction markets, Understand what's moving the market. Delivering deep research reports with model forecasts and fully cited sources.
 - [Polyfactual](https://www.polyfactual.com/?utm_source=polymark.et) — AI-powered platform blending prediction markets and social narratives to track and trade on event truthfulness.
