@@ -88,8 +88,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Marketlens](https://marketlens.trade/) — Data platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API for quantitative research and strategy development.
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
+- [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
-- [Front of Goal](https://frontofgoal.com/llms.txt) — Free, no-key soccer-only Polymarket API: live odds, order-book depth, per-match context (venue, referee, form, every market), upcoming fixtures, and biggest 1-day movers, fused from Polymarket + ESPN in one call. OpenAPI at [frontofgoal.com/openapi.json](https://api.frontofgoal.com/openapi.json); also available as an [MCP server](https://registry.modelcontextprotocol.io) (`com.frontofgoal/odds-api`) and an A2A agent.
 
 ## 🔹 Aggregator
 
@@ -99,6 +99,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [trade.fun](https://trade.fun/?utm_source=polymark.et) — Comprehensive multi-asset trading platform integrating Polymarket prediction markets, Solana memecoins, perpetuals with up to 40x leverage, and yield farming in one customizable interface, featuring zero gas fees, and MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=polymark.et) — Professional prediction market aggregator and prime brokerage platform backed by Alliance DAO and CMT Digital, featuring advanced order execution, self-custodial trading, and institutional-grade tools across multiple prediction markets.
 - [OkayBet](https://www.okaybet.app/?utm_source=polymark.et) — Prediction market infrastructure platform that builds applications on top of prediction markets, featuring AI trading agents, market aggregation, and parlay betting across multiple platforms.
+- [Kairos](https://kairos.trade/?utm_source=polymark.et) — Free cross-venue prediction market trading terminal that merges Kalshi, Polymarket, and Predict.fun order books into one ladder with NBBO routing to whichever venue shows the best price, sub-second streaming data, and advanced order types (limit with time-in-force, stop loss, take profit). REST and WebSocket API with the aggregation already done. Seed led by a16z crypto; covered by Fortune, Bloomberg, and CNBC.
 
 ## 🔔 Alerts
 
@@ -113,6 +114,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](https://polycopy.app) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
+- [RulesWatch](https://ruleswatch.com) — Tracks rules and resolution-source edits on Polymarket and Kalshi markets, shows the old and new text with the price before and after, and sends alerts to Discord, a webhook or RSS.
 
 ## 📊 Analytics Tools
 
@@ -168,6 +170,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Zapper](https://zapper.xyz/apps/polymarket?utm_source=polymark.et) — Comprehensive Web3 asset management platform featuring integrated Polymarket position tracking, multi-chain portfolio monitoring, and DeFi protocol exploration across 50+ blockchains.
 - [LayerHub](https://layerhub.xyz/protocols/polymarket?utm_source=polymark.et) — Comprehensive on-chain analytics platform specializing in wallet activity analysis for crypto projects, featuring dedicated Polymarket analytics with real-time tracking and individual wallet performance insights.
 - [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket?utm_source=polymark.et) — Comprehensive Dune Analytics dashboard tracking automated trading bot activity and market share across major Polymarket trading platforms.
+- [Front of Goal](https://frontofgoal.com) — Live football (soccer) odds and match predictions from Polymarket: win, draw and loss probabilities, decimal odds and the day's biggest moves for every match, in English and Spanish.
 
 ## 📡 Data
 
