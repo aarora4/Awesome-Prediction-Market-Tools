@@ -149,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [Sharpground](https://sharpground.com/) — Forecasting platform without real money to get scored against the market, plus calibration curves for Polymarket, and Likelier, a daily "which is likelier?" game with no signup to test your grasp of the odds.
 
 ## 🔹 Arbitrage tools
 
@@ -181,6 +182,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [TREMOR](https://github.com/sculptdotfun/tremor) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
 - [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution — 100x more granular than alternatives. Parquet/S3 bulk exports.
+- [Noisebench](https://noisebench.com/) — Benchmark and open dataset measuring how often LLM forecasters contradict themselves on live Polymarket questions, comparing "Yes" and "No" framings and pairwise rankings. Data on [Hugging Face](https://huggingface.co/datasets/fpluis/noisebench).
 
 ## 💸 DeFi
 
