@@ -214,6 +214,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
 
+- [Fathom Terminal](https://fathom-terminal.pages.dev/) — Local developer engine for public prediction-market books (feed, desk, recorder, replay, and a plugin slot). The shipped stub places no orders. Lifetime licence. [GitHub](https://github.com/fathom-terminal/fathom-terminal)
+
 ## 📰 News
 
 - [PROPHET](https://www.prophetnotes.com/?utm_source=polymark.et) — Expert-backed prediction newsletter delivering data-driven insights on politics, finance, and geopolitics.
