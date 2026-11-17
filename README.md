@@ -91,6 +91,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
 - [SpectralEdge Public Signals API](https://spectralbot.cotes.ai/docs/) — REST and SSE API for Kalshi's BTC 15-minute markets (KXBTC15M): live markets plus model signals with confidence, entry price and edge, graded win/loss after settlement. Free trial, then paid. (Disclosure: submitted by the maker.)
+- [SpectralEdge API examples](https://gitlab.com/cotes-ai-public/spectraledge-examples) — Open-source (MIT) Python and TypeScript sample apps for the SpectralEdge API on Kalshi's BTC 15-minute markets (KXBTC15M): SSE stream clients, Discord webhook alerts, and a read-only order-book logger.
 
 ## 🔹 Aggregator
 
