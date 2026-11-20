@@ -149,6 +149,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [Poly-Sim](https://poly-sim.com) — Free Polymarket intelligence hub combining AI-powered daily mispricing detection (scans 300+ markets every 6h using DeepSeek V4 Flash, ranks by gap between AI model probability and crowd price with Kelly sizing), 11-chart whale behavioral analytics (bet size distribution, YES/NO bias, peak hours heatmap, price entry map, wallet intelligence scatter, category breakdown), a four-factor market quality score rating every live market 0–100, wallet-level whale tracker with ROI/win-rate rankings, a paper-trading simulator with iOS app ($100 virtual cash), a perpetual futures practice simulator (1x–20x leverage with live liquidation line), interactive pattern-analysis tools (90% Trap, Similar Markets, Is the Price Right), calculators (Kelly, EV, position size, tax), and a 46-guide Academy on crypto, trading, DeFi and finance. All tools free, no signup, no paywall.
 
 ## 🔹 Arbitrage tools
 
@@ -196,6 +197,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [Poly-Sim Academy](https://poly-sim.com/academy/) — Free knowledge base with 46 guides on crypto, trading, DeFi, finance, whale psychology, arbitrage, bankroll management, and prediction market strategies. Includes multi-language guides, wiki, calculators and knowledge base.
 
 ## 🔹 Extensions
 
