@@ -90,6 +90,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [tactica.](https://tacticafootball.co.uk/?utm_source=awesome-prediction-market-tools) — Football forecasts for AI agents: calibrated home/draw/away chances, expected goals and full Case Files for the English Premier League (EPL), EFL Championship, EFL League 1 & EFL League 2. Remote MCP server and HTTP API, paid per call in USDC with x402; no API key.
 
 ## 🔹 Aggregator
 
