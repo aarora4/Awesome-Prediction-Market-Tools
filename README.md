@@ -90,6 +90,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [Predictefy](https://docs.predictefy.com/api/) — Unified prediction market API normalizing 15+ venues including Kalshi, Polymarket, Smarkets and Limitless behind one schema and one bearer token, with REST, WebSocket streaming, and TypeScript, Python and MCP clients in beta.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Tereno](https://www.tereno.xyz/docs/capabilities) — Cooperative pre-action evidence and verification layer on Base: audits Kalshi CFTC contract rules (early-close clauses, designated settlement sources), Polymarket UMA Optimistic Oracle / 50-50 fallback risk, and cross-venue Kalshi-vs-Polymarket rule divergence (`prediction.evidence`), with shared Grifos investigation quests (20% cross-agent reuse credit), MCP server (`/api/mcp`, 1 free daily check), x402 USDC pay-per-call, and self-serve Base USDC API keys.
 
 ## 🔹 Aggregator
 
